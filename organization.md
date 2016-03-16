@@ -28,4 +28,3 @@ The Live Game Design project organization is as follows.
   * Dr. Stefan Leijnen (HvA)
   * Dr. Tijs van der Storm (CWI)
   * Dr.ir. Rafael Bidarra (TU Delft)
-  
