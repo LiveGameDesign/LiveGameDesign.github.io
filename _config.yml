@@ -1,0 +1,18 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Live Game Design
+email: r.a.van.rozen@hva.nl
+description: Live Game Design is an applied research project on Live Intelligent Visual Environments for Game Design. We work with the Dutch game industry on techniques, methods and tools for speeding up the game development process.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://LiveGameDesign.hithub.io" # the base hostname & protocol for your site
+twitter_username: LiveGameDesign
+github_username:  vrozen
+
+# Build settings
+markdown: kramdown
