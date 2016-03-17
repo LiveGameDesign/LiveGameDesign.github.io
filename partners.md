@@ -41,7 +41,7 @@ permalink: /partners/
 [IC3D Media]: http://ic3dmedia.com
 [Firebrush Studios]: http://firebrushstudios.com[Paladin Studios]: http://www.paladinstudios.com[Ijsfontein]: http://www.ijsfontein.nl/en/
 [Codeglue]: http://www.codeglue.com
-[Ranj]: www.ranj.com/
+[Ranj]: http://www.ranj.com/
 [Little Chicken]: http://www.littlechicken.nl
 [Wild Card Games]: http://www.wildcard-games.com
 [FourceLabs]:http://fourcelabs.com
