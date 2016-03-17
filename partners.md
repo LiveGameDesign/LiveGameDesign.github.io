@@ -3,13 +3,15 @@ layout: page
 title: Partners
 permalink: /partners/
 ---
-| ![]({{ site.url }}/assets/HvA.png =200x)        | ![]({{ site.url }}/assets/./CWI.png =150x)        | ![]({{ site.url }}/assets/TU_Delft.png =150x)       |
-|:-----------------------------------------------:|:-------------------------------------------------:|:---------------------------------------------------:|
-| ![]({{ site.url }}/assets/DGG.png =65x)         | ![]({{ site.url }}/assets/DGA.png =150x)          |                                                     |
-| ![]({{ site.url }}/assets/IC3D_Media.png =120x) | ![]({{ site.url }}/assets/Ludomotion.jpg =100x)   | ![]({{ site.url }}/assets/Firebrush.gif =200x)      |
-| ![]({{ site.url }}/assets/Codeglue.png =200x)   | ![]({{ site.url }}/assets/Ranj.png =200x)         | ![]({{ site.url }}/assets/Little_Chicken.png =100x) |
-| ![]({{ site.url }}/assets/WildCard.png =200x)   | ![]({{ site.url }}/assets/FourceLabs.png =120x)   | ![]({{ site.url }}/assets/DoubleDutch.png =120x)    |
-| ![]({{ site.url }}/assets/Anadrome.png =120x)   | ![]({{ site.url }}/assets/UC_Santa_Cruz.jpg =120x)|                                                     |  
+---
+
+| <img src="{{ site.url }}/assets/HvA.png" width="160">           | <img src="{{ site.url }}/assets/CWI.png" width="100">          | <img src="{{ site.url }}/assets/TU_Delft.png" width="120">       |  <img src="{{ site.url }}/assets/DGA.png" width="140">           | <img src="{{ site.url }}/assets/DGG.png" width="60">             |
+|:---------------------------------------------------------------:|:--------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
+| <img src="{{ site.url }}/assets/IC3D_Media.png" width="120">    | <img src="{{ site.url }}/assets/Ludomotion.jpg" width="80">    | <img src="{{ site.url }}/assets/Firebrush.gif" width="150">      | <img src="{{ site.url }}/assets/Little_Chicken.png" width="80">  | <img src="{{ site.url }}/assets/Codeglue.png" width="120">       |
+| <img src="{{ site.url }}/assets/Ranj.png" width="100">          | <img src="{{ site.url }}/assets/WildCard.png" width="200">     | <img src="{{ site.url }}/assets/DoubleDutch.png" width="150">    | <img src="{{ site.url }}/assets/FourceLabs.png" width="80">      |
+| <img src="{{ site.url }}/assets/Anadrome.png" width="120">      | <img src="{{ site.url }}/assets/UC_Santa_Cruz.jpg" width="120">|                                                                  |  
+
+---
 
 ## Consortium
 * [Amsterdam University of Applied Sciences]
@@ -22,7 +24,7 @@ permalink: /partners/
 * [Firebrush Studios]
   
 ## Participating Businesses
-Please let us know if you are interested in joining!
+Please let us know if you are interested in participating!
 * [IC3D Media]
 * [Ludomotion]
 * [Firebrush Studios]
