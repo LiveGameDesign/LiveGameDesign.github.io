@@ -8,12 +8,16 @@
 # Site settings
 title: Live Game Design
 email: r.a.van.rozen@hva.nl
-description: Live Game Design is an applied research project on Live Intelligent Visual Environments for Game Design. The consortium works on techniques, methods and tools for speeding up the game design process.
+description: Live Game Design is an applied research project on Live Intelligent Visual Environments for Game Design. Together, project partners work on techniques, methods and tools for speeding up the game design process.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://LiveGameDesign.github.io" # the base hostname & protocol for your site
-twitter_username: LiveGameDesign
-github_username:  vrozen
-author:           Riemer van Rozen
+twitter_username:  LiveGameDesign
+twitter_username2: rvrozen
+github_username:   vrozen
+author:            Riemer van Rozen
+
+gems:
+- jemoji
 
 # Build settings
 markdown: kramdown

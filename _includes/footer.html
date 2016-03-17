@@ -8,10 +8,10 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title }}</li>
-          <li>Web page maintained by:<li>
-          <li>{{ site.author }}</li>
+          <li>This web page is created and maintained by {{ site.author }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li><img src="{{ site.url }}/assets/CreateIT.png" width="100" vspace="10"></li>
+          <li><a href="http://www.create-it.hva.nl"><img src="{{ site.url }}/assets/CreateIT.png" width="100"></a></li>
+          <li><a href="http://www.hva.nl/playandcivicmedia">Play & Civic Media</a></li>
         </ul>
       </div>
 
@@ -26,6 +26,12 @@
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+ 
+          {% if site.twitter_username2 %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username2 %}
           </li>
           {% endif %}
         </ul>

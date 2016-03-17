@@ -23,9 +23,7 @@ permalink: /partners/
 * [Ludomotion]  
 * [Firebrush Studios]
   
-## Participating Businesses
-Please let us know if you are interested in participating!
-* [IC3D Media]
+## Participating Businesses* [IC3D Media]
 * [Ludomotion]
 * [Firebrush Studios]
 * [Paladin Studios]
