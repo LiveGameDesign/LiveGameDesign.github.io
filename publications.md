@@ -2,34 +2,32 @@
 layout: page
 title: Publications
 permalink: /publications/
----
-<style>
-table{
+style: |
+  table{
     border-collapse: collapse;
     border-spacing: 0;
     border:1px solid #000000;
-}
-
-th{
+  }
+  th{
     border:1px solid #000000;
-}
-
-td{
+  }
+  td{
     border:1px solid #000000;
-}
-</style>
+  }
+permalink: /publications/
+---
 
-# Deliverables
+## Deliverables
 Here we will share the output of the Live Game Design (LGD) project.
 We categorize scientific output along the lines of conference papers (full research papers), artifacts, workshop papers (short preliminary research papers), posters, presentations and workshops.
 
 ---
 
-# Previous Projects
+## Previous projects
 Automated Game Design (AGD) was a two year RAAK-MKB project that ran from June 2013 until June 2015, and extended to November 2015.
 Early Quality Assurance (EQuA) in Software Production was a four year RAAK-PRO project that ran from June 2011 until November 2014, and extended to February 2015.
 
-## Full Papers
+### Full papers
 Here we share full research papers such as conference papers and journal papers.
 
 | Project   | Publication |
@@ -39,7 +37,7 @@ Here we share full research papers such as conference papers and journal papers.
 | EQuA, AGD | R. van Rozen and J. Dormans. Adapting Game Mechanics With Micro-Machinations. In Proceedings of the 9th International Conference on the Foundations of Digital Games (FDG). Society for the Advancement of the Science of Digital Games, April 2014. [[pdf]](http://oai.cwi.nl/oai/asset/23138/23138A.pdf) |
 | EQuA      | P. Klint and R. van Rozen. Micro-Machinations: A DSL for Game Economies. In M. Erwig, R. Paige, and E. Van Wyk, editors, Software Language Engineering, volume 8225 of Lecture Notes in Computer Science, pages 36–55. Springer International Publishing, 2013. [[pdf]](http://oai.cwi.nl/oai/asset/21923/21923B.pdf)|
 
-## Short Papers
+### Short papers
 Here we share short papers and preliminary research such as workshop papers and extended abstracts.
 
 | Project | Publication     |
@@ -47,7 +45,8 @@ Here we share short papers and preliminary research such as workshop papers and 
 | EQuA    | R. van Rozen and T. van der Storm. Model Differencing for Textual DSLs. In Belgian-Netherlands Seminar on Software Evolution (BENEVOL), 2014. [[pdf]](http://oai.cwi.nl/oai/asset/23133/23133B.pdf)|
 | EQuA    | P. Klint, L. Roosendaal, and R. van Rozen. Game Developers need Lua AiR - Static Analysis of Lua using Interface Models. In M. Herrlich, R. Malaka, and M. Masuch, editors, Proceedings of the International Conference on Entertainment Computing - ICEC 2012, volume ICEC 2012 of LNCS, pages 530–535. Springer, September 2012. [[pdf]](http://link.springer.com/content/pdf/10.1007%2F978-3-642-33542-6_69.pdf)|
 
-## Artifacts
+
+### Artifacts
 Here we share artifacts such as software libraries and tools.
 
 | Project   | Kind             | Publication |
@@ -55,7 +54,7 @@ Here we share artifacts such as software libraries and tools.
 | EQuA      | Software Library | R. van Rozen. Micro-Machinations Library. [https:// github.com/vrozen/MM-Lib](https:// github.com/vrozen/MM-Lib), April 2014. Released under 3-clause BSD license. |
 | AGD       | Tool             | R. van Rozen. Game Mechanics Design Assistant (MeDeA). [https://github.com/vrozen/MeDeA](https://github.com/vrozen/MeDeA), June 2015. Released under Eclipse Public License v1.0. |
 
-## Posters, Presentations and Workshops
+### Posters, presentations and workshops
 Here we share other material, such as posters, presentation slides, workshop slides and teaching material.
 
 | Project | Kind                 | Publication |
