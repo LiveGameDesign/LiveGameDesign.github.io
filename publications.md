@@ -23,6 +23,8 @@ td{
 Here we will share the output of the Live Game Design (LGD) project.
 We categorize scientific output along the lines of conference papers (full research papers), artifacts, workshop papers (short preliminary research papers), posters, presentations and workshops.
 
+---
+
 # Previous Projects
 Automated Game Design (AGD) was a two year RAAK-MKB project that ran from June 2013 until June 2015, and extended to November 2015.
 Early Quality Assurance (EQuA) in Software Production was a four year RAAK-PRO project that ran from June 2011 until November 2014, and extended to February 2015.
@@ -32,7 +34,7 @@ Here we share full research papers such as conference papers and journal papers.
 
 | Project   | Publication |
 |:----------|:------------|
-| AGD       | R. van Rozen. A Pattern-Based Game Mechanics Design Assistant. In Proceedings of the 10th International Conference on the Proceedings of Foundations of Digital Games (FDG). Society for the Advancement of the Science of Digital Games, June 2015.
+| AGD       | R. van Rozen. A Pattern-Based Game Mechanics Design Assistant. In Proceedings of the 10th International Conference on the Proceedings of Foundations of Digital Games (FDG). Society for the Advancement of the Science of Digital Games, June 2015. [[pdf]](http://oai.cwi.nl/oai/asset/23769/23769A.pdf)
 | EQuA, AGD | R. van Rozen and J. Dormans. Adapting Game Mechanics With Micro-Machinations. In Proceedings of the 9th International Conference on the Foundations of Digital Games (FDG). Society for the Advancement of the Science of Digital Games, April 2014. |
 | EQuA      | R. van Rozen and T. van der Storm. Origin Tracking + Text Differencing = Textual Model Differencing. In Theory and Practice of Model Transformations, pages 18 – 33. Springer International Publishing, July 2015. |
 | EQuA      | P. Klint and R. van Rozen. Micro-Machinations: A DSL for Game Economies. In M. Erwig, R. Paige, and E. Van Wyk, editors, Software Language Engineering, volume 8225 of Lecture Notes in Computer Science, pages 36–55. Springer International Publishing, 2013. |
