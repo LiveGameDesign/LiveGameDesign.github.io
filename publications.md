@@ -34,6 +34,7 @@ Here we share full research papers such as conference papers and journal papers.
 |:----------|:------------|
 | AGD       | R. van Rozen. A Pattern-Based Game Mechanics Design Assistant. In Proceedings of the 10th International Conference on the Proceedings of Foundations of Digital Games (FDG). Society for the Advancement of the Science of Digital Games, June 2015. [[pdf]](http://oai.cwi.nl/oai/asset/23769/23769A.pdf) |
 | EQuA      | R. van Rozen and T. van der Storm. Origin Tracking + Text Differencing = Textual Model Differencing. In Theory and Practice of Model Transformations, pages 18 – 33. Springer International Publishing, July 2015. [[pdf]](http://homepages.cwi.nl/~storm/publications/tmdiff-icmt15.pdf)|
+| AGD       | D. Karavolos, A. Bouwer and R. Bidarra. Mixed-Initiative Design of Game Levels: Integrating Mission and Space into Level Generation. In Proceedings of the 10th International Conference on the Foundations of Digital Games, June 2015. [[pdf]](https://oslo.ewi.tudelft.nl/Publications-new/2015/KBB15/KBB15.pdf)|
 | EQuA, AGD | R. van Rozen and J. Dormans. Adapting Game Mechanics With Micro-Machinations. In Proceedings of the 9th International Conference on the Foundations of Digital Games (FDG). Society for the Advancement of the Science of Digital Games, April 2014. [[pdf]](http://oai.cwi.nl/oai/asset/23138/23138A.pdf) |
 | EQuA      | P. Klint and R. van Rozen. Micro-Machinations: A DSL for Game Economies. In M. Erwig, R. Paige, and E. Van Wyk, editors, Software Language Engineering, volume 8225 of Lecture Notes in Computer Science, pages 36–55. Springer International Publishing, 2013. [[pdf]](http://oai.cwi.nl/oai/asset/21923/21923B.pdf)|
 
@@ -42,7 +43,11 @@ Here we share short papers and preliminary research such as workshop papers and 
 
 | Project | Publication     |
 |:--------|:----------------|
+| AGD     | S. Leijnen, P. Brinkkemper and A. Bouwer. Generating Game Mechanics in a Model Economy: a MoneyMaker Deluxe Case Study. In proceedings of the workshop on Procedural Content Generation in Games (PCG), 2015. [[pdf]](http://pcg.fdg2015.org/papers/generating_game_mechanics_in_a_model_economy.pdf) |
+| AGD     | S. Leijnen and J. Dormans. Order of Battle: A Case Study for Designing Emergent Structure in Games (CoSMOS). In Proceedings of the 2014 Workshop on Complex Systems Modelling and Simulation, pp. 81-84, 2014. [[pdf]](http://www.cosmos-research.org/docs/cosmos2014-proceedings.pdf)|
 | EQuA    | R. van Rozen and T. van der Storm. Model Differencing for Textual DSLs. In Belgian-Netherlands Seminar on Software Evolution (BENEVOL), 2014. [[pdf]](http://oai.cwi.nl/oai/asset/23133/23133B.pdf)|
+| AGD     | J. Dormans. Making Design Patterns Work. In proceedings of the second Workshop on Design Patterns in Games (DPG), 2013. [[pdf]](http://dpg.fdg2013.org/papers/b3-dormans.pdf)|
+| AGD     | J. Dormans and S. Leijnen. Combinatorial and Exploratory Creativity in Procedural Content Generation. In procedings of the Procedural Content Generation in Games Workshop (PCG), 2013. [[pdf]](http://www.fdg2013.org/program/workshops/papers/PCG2013/pcg2013_1.pdf)|
 | EQuA    | P. Klint, L. Roosendaal, and R. van Rozen. Game Developers need Lua AiR - Static Analysis of Lua using Interface Models. In M. Herrlich, R. Malaka, and M. Masuch, editors, Proceedings of the International Conference on Entertainment Computing - ICEC 2012, volume ICEC 2012 of LNCS, pages 530–535. Springer, September 2012. [[pdf]](http://link.springer.com/content/pdf/10.1007%2F978-3-642-33542-6_69.pdf)|
 
 
