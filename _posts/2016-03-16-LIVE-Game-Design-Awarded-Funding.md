@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Live Game Design is Awarded Funding"
+title:  "Live Game Design Awarded Funding"
 date:   2016-03-08 17:02:06 +0100
 author: Riemer van Rozen
 categories: project update
