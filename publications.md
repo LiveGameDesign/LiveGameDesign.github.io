@@ -32,7 +32,8 @@ Here we share full research papers such as conference papers and journal papers.
 
 | Project   | Publication |
 |:----------|:------------|
-| AGD       | B. van Arkel, D. Karavolos and A. Bouwer. Procedural generation of collaborative puzzle-platform game levels. In proceedings of GameOn Conference, December 2015. [[pdf]]().|
+| AGD       | B. van Arkel, D. Karavolos and A. Bouwer. Procedural generation of collaborative puzzle-platform game levels. In proceedings of the Sixteenth International Conference on AI and Simulation in Games (GAMEON), 2015. |
+GameOn Conference, December 2015.|
 | AGD       | R. van Rozen. A Pattern-Based Game Mechanics Design Assistant. In Proceedings of the 10th International Conference on the Proceedings of Foundations of Digital Games (FDG). Society for the Advancement of the Science of Digital Games, June 2015. [[pdf]](http://oai.cwi.nl/oai/asset/23769/23769A.pdf) |
 | EQuA      | R. van Rozen and T. van der Storm. Origin Tracking + Text Differencing = Textual Model Differencing. In Theory and Practice of Model Transformations, pages 18 – 33. Springer International Publishing, July 2015. [[pdf]](http://homepages.cwi.nl/~storm/publications/tmdiff-icmt15.pdf)|
 | AGD       | D. Karavolos, A. Bouwer and R. Bidarra. Mixed-Initiative Design of Game Levels: Integrating Mission and Space into Level Generation. In Proceedings of the 10th International Conference on the Foundations of Digital Games, June 2015. [[pdf]](https://oslo.ewi.tudelft.nl/Publications-new/2015/KBB15/KBB15.pdf)|
@@ -57,7 +58,7 @@ Here we share artifacts such as software libraries and tools.
 
 | Project   | Kind             | Publication |
 |:----------|:-----------------| :---------- |
-| EQuA      | Software Library | R. van Rozen. Micro-Machinations Library. [https:// github.com/vrozen/MM-Lib](https://github.com/vrozen/MM-Lib), April 2014. Released under 3-clause BSD license. |
+| EQuA      | Software Library | R. van Rozen. Micro-Machinations Library. [https://github.com/vrozen/MM-Lib](https://github.com/vrozen/MM-Lib), April 2014. Released under 3-clause BSD license. |
 | AGD       | Tool             | R. van Rozen. Game Mechanics Design Assistant (MeDeA). [https://github.com/vrozen/MeDeA](https://github.com/vrozen/MeDeA), June 2015. Released under Eclipse Public License v1.0. |
 
 ### Posters, presentations and workshops
