@@ -60,13 +60,15 @@ Here we share artifacts such as software libraries and tools.
 | EQuA      | Software Library | R. van Rozen. Micro-Machinations Library. [https://github.com/vrozen/MM-Lib](https://github.com/vrozen/MM-Lib), April 2014. Released under 3-clause BSD license. |
 | AGD       | Tool             | R. van Rozen. Game Mechanics Design Assistant (MeDeA). [https://github.com/vrozen/MeDeA](https://github.com/vrozen/MeDeA), June 2015. Released under Eclipse Public License v1.0. |
 
-### Posters, presentations and workshops
+### Posters, presentations, movies and workshops
 Here we share other material, such as posters, presentation slides, workshop slides and teaching material.
 
 | Project | Kind                 | Publication |
 |:------- |:---------------------|:----------- |
-| AGD     | Interactive Workshop | R. van Rozen. Interactive Workshop on Adapting Game Mechanics with Micro-Machinations. In Symposium on Automated Game Design (AGD), September 2014. [[web page]](http://vrozen.github.io/agd2014/). |
-| AGD     | Presentation         | R. van Rozen, D. Karavolos, and S. Leijnen. Presentation: Tools for Adapting Game Mechanics and Mixed-Initiative Level Design. In Symposium on What’s Next for Procedural Content (WNFPCG), Center for Computer Games Research, IT University of Copenhagen., November 10–11, 2014. [[pptx]](http://vrozen.github.io/wnfpcg2014/WNFPCG_slides_HvA.pptx). |
 | AGD    | Poster                | R. van Rozen and T. van der Storm. Live Domain-Specific Languages. In National Symposium Software Engineering The Netherlands (SEN), 2016. [[pdf]](http://LiveGameDesign.github.io/assets/LiveDSLs_SEN2016.pdf)|
 | AGD    | Poster                | R. van Rozen. Live Game Design. In National Symposium Software Engineering The Netherlands (SEN), 2016. [[pdf]](http://LiveGameDesign.github.io/assets/LiveGameDesign_SEN2016.pdf)|
-| EQuA    | Keynote              | L. Roosendaal and R. van Rozen. Live Game Software Verbeteren. In Symposium on Early Quality Assurance in Software Production (EQuA), November 2014. (IC3D Media material with copyright removed) [[pptx]](http://LiveGameDesign.github.io/assets/EQuA2014_rozen.pptx)|
+| AGD     | Interactive Workshop | R. van Rozen. Interactive Workshop on Adapting Game Mechanics with Micro-Machinations. In Symposium on Automated Game Design (AGD), September 2014. [[web page]](http://vrozen.github.io/agd2014/). |
+| AGD     | Presentation         | R. van Rozen, D. Karavolos, and S. Leijnen. Presentation: Tools for Adapting Game Mechanics and Mixed-Initiative Level Design. In Symposium on What’s Next for Procedural Content (WNFPCG), Center for Computer Games Research, IT University of Copenhagen., November 10–11, 2014. [[pptx]](http://vrozen.github.io/wnfpcg2014/WNFPCG_slides_HvA.pptx). |
+| EQuA    | Movie                | R. van Rozen. Live Programming of Johnny Jetstream with Micro-Machinations. YouTube, November 2014. Note: no sound. [[url]](https://www.youtube.com/watch?v=igNeE55sG24) |
+| EQuA    | Movie                | R. van Rozen. Live Game Programming with Micro-Machinations and Rascal. YouTube, November 2014. Note: no sound. [[url]](https://www.youtube.com/watch?v=YzsKaJEX4D4) |
+| EQuA    | Keynote              | L. Roosendaal and R. van Rozen. Live Game Software Verbeteren. In Symposium on Early Quality Assurance in Software Production (EQuA), November 2014. (copyrighted material of IC3D Media removed) [[pptx]](http://LiveGameDesign.github.io/assets/EQuA2014_rozen.pptx)|
