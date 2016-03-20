@@ -57,7 +57,7 @@ Here we share artifacts such as software libraries and tools.
 
 | Project   | Kind             | Publication |
 |:----------|:-----------------| :---------- |
-| EQuA      | Software Library | R. van Rozen. Micro-Machinations Library. [https:// github.com/vrozen/MM-Lib](https:// github.com/vrozen/MM-Lib), April 2014. Released under 3-clause BSD license. |
+| EQuA      | Software Library | R. van Rozen. Micro-Machinations Library. [https:// github.com/vrozen/MM-Lib](https://github.com/vrozen/MM-Lib), April 2014. Released under 3-clause BSD license. |
 | AGD       | Tool             | R. van Rozen. Game Mechanics Design Assistant (MeDeA). [https://github.com/vrozen/MeDeA](https://github.com/vrozen/MeDeA), June 2015. Released under Eclipse Public License v1.0. |
 
 ### Posters, presentations and workshops
