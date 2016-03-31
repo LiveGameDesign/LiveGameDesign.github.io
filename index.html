@@ -3,10 +3,7 @@ layout: default
 ---
 
 <div class="home">
-
-  <table>
-  <tr>
-  <td width=55%>
+  <div style="width: 440px; float: left;">
   <h1 class="page-heading">Posts</h1>
   <ul class="post-list">
     {% for post in site.posts %}
@@ -19,10 +16,9 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  </td>
-  <td width=45%>
-    <img src="{{ site.url }}/assets/LGD.svg">
-  </td>
+  </div>
+  <div style="width: 300px; float: left;">
+  <img src="{{ site.url }}/assets/LGD.svg">
+  </div>
   </tr>
-  </table>
 </div>
