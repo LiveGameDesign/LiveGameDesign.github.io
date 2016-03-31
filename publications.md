@@ -72,3 +72,7 @@ Here we share other material, such as posters, presentation slides, workshop sli
 | EQuA    | Movie                | R. van Rozen. Live Programming of Johnny Jetstream with Micro-Machinations. YouTube, November 2014. Note: no sound. [[url]](https://www.youtube.com/watch?v=igNeE55sG24) |
 | EQuA    | Movie                | R. van Rozen. Live Game Programming with Micro-Machinations and Rascal. YouTube, November 2014. Note: no sound. [[url]](https://www.youtube.com/watch?v=YzsKaJEX4D4) |
 | EQuA    | Keynote              | L. Roosendaal and R. van Rozen. Live Game Software Verbeteren. In Symposium on Early Quality Assurance in Software Production (EQuA), November 2014. (copyrighted material of IC3D Media removed) [[pptx]](http://LiveGameDesign.github.io/assets/EQuA2014_rozen.pptx)|
+
+### PhD Dissertations
+
+* S Leijnen. Creativity and Constraint in Artificial Systems. PhD Dissertation, Radboud University, 2014. [[pdf]](http://repository.ubn.ru.nl/bitstream/handle/2066/132144/132144.pdf?sequence=1)
