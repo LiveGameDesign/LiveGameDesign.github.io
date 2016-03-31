@@ -76,7 +76,7 @@ Here we share other material, such as posters, presentation slides, workshop sli
 ### PhD Dissertations
 
 * S. Leijnen. Creativity and Constraint in Artificial Systems. PhD Dissertation,2014. [[pdf]](http://repository.ubn.ru.nl/bitstream/handle/2066/132144/132144.pdf?sequence=1)
-* J. Dormans. Engineering Emergence Applied Theory for Game Design, PhD Dissertation, 2012. [[pdf]](http://www.jorisdormans.nl/pdf/dormans_engineering_emergence.pdf)
+* J. Dormans. Engineering Emergence - Applied Theory for Game Design, PhD Dissertation, 2012. [[pdf]](http://www.jorisdormans.nl/pdf/dormans_engineering_emergence.pdf)
 
 
 
