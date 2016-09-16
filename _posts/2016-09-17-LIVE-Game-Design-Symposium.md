@@ -28,8 +28,9 @@ Registration is required. If you wish to participate please contact us via (live
 
 Live Game Design Project Kick-off Symposium Friday October 7th 2016, Location: Casa 400, Eerste Ringdijkstraat 4, 1097 BC Amsterdam.
 
-| time          | activity                                                                 |
-|:--------------|:-------------------------------------------------------------------------|
+
+| time                     | activity                                                                 |
+|:-------------------------|:-------------------------------------------------------------------------|
 | 12:00 - 13:00 | Lunch                                                                    |
 | 13:00 - 13:20 | Welcome & Introduction, by Ir. Riemer van Rozen (project lead, HvA)      |
 | 13:20 - 13:40 | Round of Introductions by everybody                                      |
