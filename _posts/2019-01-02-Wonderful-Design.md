@@ -14,6 +14,7 @@ It addresses the key research question of how to engineer emergence, and represe
 
 * R. Corstjens, A. Bouwer, J. Dormans and R. van Rozen. Wonderful Design: Applying Appraisal Theory to Procedural Level Generation. In Joint Proceedings of the AIIDE 2018 Workshops -- Proceedings of the 5th Workshop on Experimental AI in Games, EXAG 2018, co-located with 14th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, AIIDE 2018, Edmonton, AB, Canada, November 13--17, 2018. CEUR-WS.org, CEUR Workshop Proceedings, vol: 2282. [[pdf]](http://ceur-ws.org/Vol-2282/EXAG_106.pdf)
 
+The talk was well-received and sparked a lively discussion.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I feel like this slide is peak EXAG <a href="https://twitter.com/hashtag/EXAG18?src=hash&amp;ref_src=twsrc%5Etfw">#EXAG18</a> <a href="https://t.co/FQItlWWTlg">pic.twitter.com/FQItlWWTlg</a></p>&mdash; Chris Martens (@chrisamaphone) <a href="https://twitter.com/chrisamaphone/status/1062811185668489216?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Can you really program emotions?
