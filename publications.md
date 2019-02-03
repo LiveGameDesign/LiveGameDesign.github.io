@@ -18,11 +18,10 @@ permalink: /publications/
 ---
 
 ## Deliverables
-Here we will share the output of the Live Game Design (LGD) project.
+Here we will share the output of the Live Game Design (LGD) project, a two year RAAK-MKB project that runs from May 2016 until May 2018, and is extended to May 2019.
 We categorize scientific output along the lines of conference papers (full research papers), artifacts, workshop papers (short preliminary research papers), posters, presentations and workshops.
 
 ---
-
 ## Previous projects
 Automated Game Design (AGD) was a two year RAAK-MKB project that ran from June 2013 until June 2015, and extended to November 2015.
 Early Quality Assurance (EQuA) in Software Production was a four year RAAK-PRO project that ran from June 2011 until November 2014, and extended to February 2015.
