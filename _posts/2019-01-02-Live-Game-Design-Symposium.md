@@ -6,12 +6,24 @@ author: Riemer van Rozen
 categories: project update
 ---
 ## Closing Symposium
-The concluding Symposium on Live Game Design
-Date: Wednesday February 27th, 2019
-Location: Volkshotel, Wibautstraat 150 Amsterdam
+The concluding Symposium on Live Game Design.
+
+|           |                                         |
+|-----------|-----------------------------------------|                                                                  
+| Date:     | Wednesday February 27th, 2019           |
+| Location: | Volkshotel, Wibautstraat 150 Amsterdam. |
+
+Please find details on registration below.
+
 
 ### Results
-The symposium will present the results of the Live Game Design project, including technology and tools for Live Game Design, the results of related student projects, and the results of the three case studies with companies (Ludomotion, Firebrush Studios and IC3D Media). 
+The symposium will present the results of the applied research project Live Game Design (Live Intelligent Visual Environments for Game Design).
+This includes technology, languages and tools for game Design, the results of related student projects, and the results of the three case studies with companies (Ludomotion, Firebrush Studios and IC3D Media).
+
+### Discussion
+We also look forward to what's next.
+What are the technical challenges Dutch game developers are facing?
+How can applied research into visual programming languages, tools and procedural content generation help tackle these challenges in the coming years?
 
 ### Registration
 Registration is required. If you wish to participate please contact us via (livegamedesign@gmail.com) before Tuesday February 12th. Participation (including optional lunch) is free, but limited spaces are available.
@@ -40,3 +52,14 @@ Please note that the schedule below may still change.
 | 16:30 - 16:50 | Future outlook                                                                              |
 | 16:50 - 17:00 | Concluding remarks                                                                          |
 | 17:00 - :wink:| Drinks                                                                                      |
+
+####Opening: Exploring the Design Space with Live Game Design Tools, Anders Bouwer
+The project envisions LIVE game design tools that have the following qualities:
+ 
+ * **Visual.** includes visual programming languages especially attuned to the expertise of game designers
+ * **Live.** provides immediate and continuous (live) results that are understandable and help gain insight
+ * **Feedback.** shows precise and intelligent feedback on mechanics, related dynamics (interaction and run-time), resulting aesthetics (gameplay), in order to make informed decisions.
+ * **Feed-forward** offers alternatives that can be inspected, picked and applied to focus the creative design process
+ * **Applicable.** examples and material to learn how to apply the tools
+
+Anders Bouwer discusses project results, and how tools such as these help explore the design space.
