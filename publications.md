@@ -32,7 +32,7 @@ Here we share full research papers such as conference papers and journal papers.
 
 | Project   | Publication |
 |:----------|:------------|
-| LGD       | R. van Rozen and Q. Heijn. Measuring Quality of Grammars for Procedural Level Generation. Chapter version. In Proceedings of the 13th International Conference on Foundations of Digital Games, FDG 2018, as part of the 9th Workshop on Procedural Content Generation, PCG 2018, Malmö, Sweden, August 7--10, 2018. [[pdf]]({{ site.url }}/assets/vRozenHein2018.pdf) |
+| LGD       | R. van Rozen and Q. Heijn. Measuring Quality of Grammars for Procedural Level Generation. Chapter version. In Proceedings of the 13th International Conference on Foundations of Digital Games, FDG 2018, as part of the 9th Workshop on Procedural Content Generation, PCG 2018, Malmö, Sweden, August 7--10, 2018. [[pdf]]({{ site.url }}/assets/vRozenHeijn2018.pdf) |
 | AGD       | B. van Arkel, D. Karavolos and A. Bouwer. Procedural generation of collaborative puzzle-platform game levels. In proceedings of the Sixteenth International Conference on AI and Simulation in Games (GAMEON), December 2015. |
 | AGD       | R. van Rozen. A Pattern-Based Game Mechanics Design Assistant. In Proceedings of the 10th International Conference on the Proceedings of Foundations of Digital Games (FDG). Society for the Advancement of the Science of Digital Games, June 2015. [[pdf]](http://oai.cwi.nl/oai/asset/23769/23769A.pdf) |
 | EQuA      | R. van Rozen and T. van der Storm. Origin Tracking + Text Differencing = Textual Model Differencing. In Theory and Practice of Model Transformations, pages 18 – 33. Springer International Publishing, July 2015. [[pdf]](http://homepages.cwi.nl/~storm/publications/tmdiff-icmt15.pdf)|
