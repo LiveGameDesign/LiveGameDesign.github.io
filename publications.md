@@ -31,7 +31,7 @@ Here we share journal papers.
 
 | Project   | Publication |
 |:----------|:------------|
-| LGD       | R. van Rozen and T. van der Storm. Toward Live Domain-Specific Languages: From Text Differencing to Adapting Models at Run Time. Pre-print of an article that appeared in Software & Systems Modeling, Springer, August 2017, pp: 1--18, doi: 10.1007/s10270-017-0608-7, issn: 1619-1374. [[pdf]](https://homepages.cwi.nl/~storm/publications/vRozenvdStorm2017_sosym_v3.pdf) |
+| LGD       | R. van Rozen and T. van der Storm. Toward Live Domain-Specific Languages: From Text Differencing to Adapting Models at Run Time. Pre-print of an article that appeared in Software & Systems Modeling, Springer, August 2017. [[pdf]](https://homepages.cwi.nl/~storm/publications/vRozenvdStorm2017_sosym_v3.pdf) |
 
 ### Full papers
 Here we share full research papers such as conference papers and journal papers.
