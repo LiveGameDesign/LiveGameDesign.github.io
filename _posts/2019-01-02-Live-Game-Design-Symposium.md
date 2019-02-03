@@ -6,17 +6,15 @@ author: Riemer van Rozen
 categories: project update
 ---
 ## Closing Symposium
-The concluding Symposium on Live Game Design.
+The concluding afternoon Symposium on Live Game Design.                                                          
 
-|           |                                         |
-|-----------|-----------------------------------------|                                                                  
-| Date:     | Wednesday February 27th, 2019           |
-| Location: | Volkshotel, Wibautstraat 150 Amsterdam. |
+**Date:** Wednesday February 27th, 2019.
 
-Please find details on registration below.
+**Location:** Volkshotel, Wibautstraat 150 Amsterdam.
 
+Please find details on the **mandatory registration** and the schedule below.
 
-### Results
+### Results 
 The symposium will present the results of the applied research project Live Game Design (Live Intelligent Visual Environments for Game Design).
 This includes technology, languages and tools for game Design, the results of related student projects, and the results of the three case studies with companies (Ludomotion, Firebrush Studios and IC3D Media).
 
