@@ -5,7 +5,7 @@ date:   2019-02-01 15:00:00 +0100
 author: Riemer van Rozen
 categories: project update
 ---
-## Improving Tools for Authoring Generated Game Levels
+## Improving Tools for Authoring Procedural Game Levels
 Quinten Heijn and Riemer van Rozen participated in the International Conference on the Foundations of Digital Games (FDG), in Malmö, Sweden in August 2018.
 
 Their talk at the Procedural Content Generation in Games (PCG) workshop, a part of FDG, was for a paper in the context of Quinten's MSc thesis, which was in collaboration with Joris Dormans of Ludomotion.
