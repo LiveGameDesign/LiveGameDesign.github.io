@@ -8,7 +8,7 @@ categories: project update
 ## Wonderful Design
 Rosa Corstjens and Anders Bouwer travelled to the conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE) in Edmonton, Canada in November 2018.
 
-Rosa presented her work (paper below) at the Experimental AI in Games Workshop (EXAG), which was co-located at the AIIDE conference.
+Rosa presented her work (paper below) at the Experimental AI in Games Workshop (EXAG), which was co-located with the AIIDE conference.
 This work, in the context of her BSc thesis, was performed in collaboration with Joris Dormans of Ludomotion.
 It addresses the key research question of how to engineer emergence, and represents first steps towards directing (as a discipline) emotions in procedurally generated levels.
 
@@ -16,7 +16,7 @@ It addresses the key research question of how to engineer emergence, and represe
 
 Can you really program emotions?
 Well, that sounds like mind control...
-Let's say that the goal of this work is more friendly. It coaxes a players attention and feelings and helps focus and remain immersed by directing the shape and structure of the generated level content.
+Let's say that the goal of this work is more friendly. It gently coaxes a players attention and feelings and helps focus and remain immersed by directing the shape and structure of the generated level content.
 
 Thanks to organizer Jo Mazeika everyone can view the presentations of EXAG (including Rosa's) on youtube.
 
