@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wonderful Design"
+title:  "Wonderful Design of Procedural Game Levels"
 date:   2019-02-01 16:00:00 +0100
 author: Riemer van Rozen
 categories: project update
