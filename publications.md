@@ -73,6 +73,7 @@ Here we share other material, such as posters, presentation slides, workshop sli
 
 | Project | Kind                 | Publication |
 |:------- |:---------------------|:----------- |
+| LGD    | Invited Talk          | R. van Rozen. Model Evolution: Towards Live Domain-Specific Languages. Lecture slides presented at the Fall Days of the Institute for Programming research and Algorithmics (IPA), Garderen, the Netherlands, Friday November 2nd 2018. [[pdf]]({{ site.url }}/assets/IPA_Fall_Days_2018_vRozen.pdf) |
 | AGD    | Poster                | R. van Rozen and T. van der Storm. Live Domain-Specific Languages. In National Symposium Software Engineering The Netherlands (SEN), 2016. [[pdf]](http://LiveGameDesign.github.io/assets/LiveDSLs_SEN2016.pdf)|
 | AGD    | Poster                | R. van Rozen. Live Game Design. In National Symposium Software Engineering The Netherlands (SEN), 2016. [[pdf]](http://LiveGameDesign.github.io/assets/LiveGameDesign_SEN2016.pdf)|
 | AGD     | Interactive Workshop | R. van Rozen. Interactive Workshop on Adapting Game Mechanics with Micro-Machinations. In Symposium on Automated Game Design (AGD), September 2014. [[web page]](http://vrozen.github.io/agd2014/). |
