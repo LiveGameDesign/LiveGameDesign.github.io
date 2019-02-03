@@ -21,7 +21,7 @@ In good company, we see Rafaël Bidarra on the left and Julian Togelius on the r
 
 ### Proceedings 
 The full proceedings (the collection of papers) of FDG 2018 can be found here at [[dblp]](https://dblp.uni-trier.de/search?q=FDG).
-The papers are available on the ACM digital library.
+The papers are available on the [[ACM digital library]](https://dl.acm.org/citation.cfm?id=3235765).
 In case you don't have access, most authors share a pre-print you might find via Google Scholar.
 
 ### Great welcome
