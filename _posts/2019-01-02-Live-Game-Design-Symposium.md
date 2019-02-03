@@ -51,7 +51,9 @@ Please note that the schedule below may still change.
 | 16:50 - 17:00 | Concluding remarks                                                                          |
 | 17:00 - :wink:| Drinks                                                                                      |
 
-####Opening: Exploring the Design Space with Live Game Design Tools, Anders Bouwer
+----
+
+###Opening: Exploring the Design Space with Live Game Design Tools, Anders Bouwer
 The project envisions LIVE game design tools that have the following qualities:
  
  * **Visual.** includes visual programming languages especially attuned to the expertise of game designers
