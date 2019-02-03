@@ -20,11 +20,12 @@ In good company, we see Rafaël Bidarra on the left and Julian Togelius on the r
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/VisKnut?ref_src=twsrc%5Etfw">@VisKnut</a> explaining declarative game level properties for measuring the quality of grammars for procedural level generation <a href="https://twitter.com/PcgWorkshop?ref_src=twsrc%5Etfw">@PcgWorkshop</a> <a href="https://twitter.com/hashtag/FDG18?src=hash&amp;ref_src=twsrc%5Etfw">#FDG18</a> <a href="https://t.co/JVxAVyMSRO">pic.twitter.com/JVxAVyMSRO</a></p>&mdash; Riemer van Rozen (@rvrozen) <a href="https://twitter.com/rvrozen/status/1026770246655504384?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### Proceedings 
-The full proceedings (the collection of papers) of FDG 2018 can be found here at [[dblp]](https://dblp.uni-trier.de/search?q=FDG).
-The papers are available on the [[ACM digital library]](https://dl.acm.org/citation.cfm?id=3235765).
+The full proceedings (the collection of papers) of FDG 2018 can be found here at dblp [[url]](https://dblp.uni-trier.de/db/conf/fdg/fdg2018.html).
+The papers are available on the ACM digital library [[url]](https://dl.acm.org/citation.cfm?id=3235765).
 In case you don't have access, most authors share a pre-print you might find via Google Scholar.
 
 ### Great welcome
 The city council of Malmö warmly welcomed the  conference participants to a reception and a dinner at the historical city hall, as recorded by the conference chair Jose Font.
+Thanks for a great conference!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/fdg18?src=hash&amp;ref_src=twsrc%5Etfw">#fdg18</a> gala dinner at the Town Hall thanks to <a href="https://twitter.com/malmostad?ref_src=twsrc%5Etfw">@malmostad</a> &#39;s support. <a href="https://t.co/hSTAD7IKZx">pic.twitter.com/hSTAD7IKZx</a></p>&mdash; Jose Maria Font (@erfont) <a href="https://twitter.com/erfont/status/1027642451329200129?ref_src=twsrc%5Etfw">August 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
