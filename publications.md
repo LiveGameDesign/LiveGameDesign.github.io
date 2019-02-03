@@ -27,11 +27,19 @@ We categorize scientific output along the lines of conference papers (full resea
 Automated Game Design (AGD) was a two year RAAK-MKB project that ran from June 2013 until June 2015, and extended to November 2015.
 Early Quality Assurance (EQuA) in Software Production was a four year RAAK-PRO project that ran from June 2011 until November 2014, and extended to February 2015.
 
+### Journal Papers
+Here we share journal papers.
+
+ Project   | Publication |
+|:----------|:------------|
+| LGD       | R. van Rozen and T. van der Storm. Toward Live Domain-Specific Languages: From Text Differencing to Adapting Models at Run Time. Pre-print of an article that appeared in Software & Systems Modeling, Springer, August 2017, pp: 1--18, doi: 10.1007/s10270-017-0608-7, issn: 1619-1374. [[pdf]](https://homepages.cwi.nl/~storm/publications/vRozenvdStorm2017_sosym_v3.pdf) |
+
 ### Full papers
 Here we share full research papers such as conference papers and journal papers.
 
 | Project   | Publication |
 |:----------|:------------|
+| LGD       | R. Corstjens, A. Bouwer, J. Dormans and R. van Rozen. Wonderful Design: Applying Appraisal Theory to Procedural Level Generation. In Joint Proceedings of the AIIDE 2018 Workshops -- Proceedings of the 5th Workshop on Experimental AI in Games, EXAG 2018, co-located with 14th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, AIIDE 2018, Edmonton, AB, Canada, November 13--17, 2018. CEUR-WS.org, CEUR Workshop Proceedings, vol: 2282, 2018. [[pdf]](http://ceur-ws.org/Vol-2282/EXAG_106.pdf) |
 | LGD       | R. van Rozen and Q. Heijn. Measuring Quality of Grammars for Procedural Level Generation. Chapter revision. In Proceedings of the 13th International Conference on Foundations of Digital Games, FDG 2018, as part of the 9th Workshop on Procedural Content Generation, PCG 2018, Malmö, Sweden, August 7--10, 2018. [[pdf]]({{ site.url }}/assets/vRozenHeijn2018.pdf) |
 | AGD       | B. van Arkel, D. Karavolos and A. Bouwer. Procedural generation of collaborative puzzle-platform game levels. In proceedings of the Sixteenth International Conference on AI and Simulation in Games (GAMEON), December 2015. |
 | AGD       | R. van Rozen. A Pattern-Based Game Mechanics Design Assistant. In Proceedings of the 10th International Conference on the Proceedings of Foundations of Digital Games (FDG). Society for the Advancement of the Science of Digital Games, June 2015. [[pdf]](http://oai.cwi.nl/oai/asset/23769/23769A.pdf) |
