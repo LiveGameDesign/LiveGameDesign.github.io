@@ -12,36 +12,37 @@ Date: February 27th 2019
 Location: Volkshotel, Wibautstraat 150 Amsterdam
 
 ### Results
-The symposium will present the results of the Live Game Design project, including technology and tools for Live Game Design, the results of related student projects, and the results of the three case studies with companies (Ludomotion, Firebrush Studios and IC3DMedia). 
+The symposium will present the results of the Live Game Design project, including technology and tools for Live Game Design, the results of related student projects, and the results of the three case studies with companies (Ludomotion, Firebrush Studios and IC3D Media). 
 
 ### Registration
-Registration is required. If you wish to participate please contact us via (livegamedesign@gmail.com) before 12 February. Participation (including optional lunch) is free, but limited spaces are available.
+Registration is required. If you wish to participate please contact us via (livegamedesign@gmail.com) before Tuesday February 12th. Participation (including optional lunch) is free, but limited spaces are available.
 
 ### Preliminary Program
 
-Live Game Design Project End Symposium Wednesday February 27th, 2019
+Live Game Design Project Concludings Symposium Wednesday February 27th, 2019
 
 Location: Volkshotel, Wibautstraat 150 Amsterdam.
 
+Please note that the schedule below may still change.
 
-| time                     | activity                                                                 |
-|:-------------------------|:-------------------------------------------------------------------------|
-| 11:00 - 11:30 | Project meeting  (project partners)                                                 |
-| 11:30 - 12:15 | Future outlook discussion (project partners and invitees)                           |
-| 12:15 - 13:15 | Lunch (project partners and invitees)                                               |
-| 13:15 - 13:30 | Opening: Exploring the Design Space with Live Game Design Tools, Anders Bouwer      |
-| 13:30 - 13:50 | Narrative World Generation, Rafael Bidarra (TU Delft)                               |
-| 13:50 - 14:05 | Presentation about case study with IC3D Media, TBD                                  |
-| 14:05 - 14:20 | Live Modeling with Micro-Machinations, Ferdy van Den Hoed (HvA, Firebrush Studios)  |
-| 14:20 - 14:35 | Coffee Break                                                                        |
-| 14:35 - 14:45 | Supporting Technology for Live Programming, Riemer van Rozen                        |
-| 14:45 - 15:00 | Wonderful Design: Applying Appraisal Theory to Procedural Level Generation, Rosa Corstjens |
-| 15:00 - 15:15 | Measuring Quality of Grammars for Procedural Level Generation, Quinten Heijn |
+| time                     | activity                                                                         |
+|:-------------------------|:---------------------------------------------------------------------------------|
+| 11:00 - 11:30 | Project meeting  (project partners)                                                         |
+| 11:30 - 12:15 | Future outlook discussion (project partners, invitees).                                     |
+| 12:15 - 13:15 | Lunch (confirmed symposium participants)                                                    |
+| 13:15 - 13:30 | Opening: Exploring the Design Space with Live Game Design Tools, Anders Bouwer              |
+| 13:30 - 13:50 | Narrative World Generation, Rafael Bidarra (TU Delft)                                       |
+| 13:50 - 14:05 | Presentation about case study with IC3D Media, TBD                                          |
+| 14:05 - 14:20 | Live Modeling with Micro-Machinations, Ferdy van Den Hoed (HvA, Firebrush Studios)          |
+| 14:20 - 14:35 | Coffee Break                                                                                |
+| 14:35 - 14:45 | Supporting Technology for Live Programming, Riemer van Rozen                                |
+| 14:45 - 15:00 | Wonderful Design: Applying Appraisal Theory to Procedural Level Generation, Rosa Corstjens  |
+| 15:00 - 15:15 | Measuring Quality of Grammars for Procedural Level Generation, Quinten Heijn                |
 | 15:15 - 15:25 | Data Science for Educational Gameplay Design: Opportunities & Pitfalls, Mossa Merhi Reimert |
-| 15:25 - 15:45 | Languages of Games and Play: A Systematic Mapping Study, Riemer van Rozen |
-| 15:45 - 15:55 | Code Arena: Battling code clones in Minecraft with Rascal, Sander Meester and Simon Baars |
-| 15:55 - 16:10 | Coffee Break                     |
-| 16:10 - 16:30 | Guest Presentation - TBD         |
-| 16:30 - 16:50 | Future outlook                   |
-| 16:50 - 17:00 | Concluding remarks               |
-| 17:00 - :wink:| Drinks                           |
+| 15:25 - 15:45 | Languages of Games and Play: A Systematic Mapping Study, Riemer van Rozen                   |
+| 15:45 - 15:55 | Code Arena: Battling code clones in Minecraft with Rascal, Sander Meester and Simon Baars   |
+| 15:55 - 16:10 | Coffee Break                                                                                |
+| 16:10 - 16:30 | Guest Presentation (TBD)                                                                    |
+| 16:30 - 16:50 | Future outlook                                                                              |
+| 16:50 - 17:00 | Concluding remarks                                                                          |
+| 17:00 - :wink:| Drinks                                                                                      |
