@@ -50,7 +50,6 @@ Please note that the schedule below may still change.
 | 16:30 - 16:50 | Future outlook                                                                              |
 | 16:50 - 17:00 | Concluding remarks                                                                          |
 | 17:00 - :wink:| Drinks                                                                                      |
----
 
 ---
 ###Opening: Exploring the Design Space with Live Game Design Tools, Anders Bouwer
