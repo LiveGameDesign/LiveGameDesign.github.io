@@ -17,6 +17,7 @@ It addresses the key research question of how to engineer emergence, and represe
 The talk was well-received and sparked a lively discussion.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I feel like this slide is peak EXAG <a href="https://twitter.com/hashtag/EXAG18?src=hash&amp;ref_src=twsrc%5Etfw">#EXAG18</a> <a href="https://t.co/FQItlWWTlg">pic.twitter.com/FQItlWWTlg</a></p>&mdash; Chris Martens (@chrisamaphone) <a href="https://twitter.com/chrisamaphone/status/1062811185668489216?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+### Conclusions
 Can you really program emotions?
 Well, that sounds like mind control...
 Let's say that the goal of this work is more friendly. It gently coaxes a players attention and feelings and helps focus and remain immersed by directing the shape and structure of the generated level content.
