@@ -30,7 +30,6 @@ Registration is required. If you wish to participate please contact us via (live
 Please note that the schedule below may still change.
 
 | time                     | activity                                                                         |
----
 |:-------------------------|:---------------------------------------------------------------------------------|
 | 11:00 - 11:30 | Project meeting  (project partners)                                                         |
 | 11:30 - 12:15 | Future outlook discussion (project partners, invitees).                                     |
@@ -53,6 +52,7 @@ Please note that the schedule below may still change.
 | 17:00 - :wink:| Drinks                                                                                      |
 
 ---
+
 ### Opening: Exploring the Design Space with Live Game Design Tools, Anders Bouwer
 The project envisions LIVE game design tools that have the following qualities:
  
