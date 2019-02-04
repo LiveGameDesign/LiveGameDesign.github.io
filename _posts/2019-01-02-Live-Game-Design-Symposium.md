@@ -53,13 +53,3 @@ Please note that the schedule below may still change.
 
 ---
 
-### Opening: Exploring the Design Space with Live Game Design Tools, Anders Bouwer
-The project envisions LIVE game design tools that have the following qualities:
- 
- * **Visual.** includes visual programming languages especially attuned to the expertise of game designers
- * **Live.** provides immediate and continuous (live) results that are understandable and help gain insight
- * **Feedback.** shows precise and intelligent feedback on mechanics, related dynamics (interaction and run-time), resulting aesthetics (gameplay), in order to make informed decisions.
- * **Feed-forward** offers alternatives that can be inspected, picked and applied to focus the creative design process
- * **Applicable.** examples and material to learn how to apply the tools
-
-Anders Bouwer discusses project results, and how tools such as these help explore the design space.
