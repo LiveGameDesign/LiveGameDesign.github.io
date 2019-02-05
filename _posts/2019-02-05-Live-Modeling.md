@@ -3,7 +3,7 @@ layout: post
 title:  "Exploring the Design Space with Live Modeling"
 date:   2019-02-05 14:00:00 +0100
 author: Riemer van Rozen
-categories: technical report
+categories: draft of a short position paper
 ---
 
 ## Exploring the Design Space with Live Modeling
@@ -13,13 +13,12 @@ Amsterdam University of Applied Sciences
 
 *Draft -- February 5th 2019*
 
-
 **Abstract.**
-Live Modeling is a sesearch area in Model-Driven Engineering that studies how to improve the affordances of languages, tools and techniques, by providing immediate and continuous feedback about visual changes to the source code and its effect on running programs.
+Live Modeling is a research area in Model-Driven Engineering that studies how to improve the affordances of languages, tools and techniques, by providing immediate and continuous feedback about visual changes to the source code and its effect on running programs.
 Instead of long edit-compile-run cycles, every update to the code (or model) is immediately visible in the running application and its programming environment.
-Here we motivate our research and share a vision on how these tools support interactive design space exploration.
-We give and account on our progress on enabling technology constructed in the context of a three year applied project called Live Game Design.
-We demonstrate two live programming environments created for 1) State Machine Language; and 2) Micro-Machinations, a Domain-Specific Language for game economies.
+Here we share our perspective on how these tools support interactive design space exploration.
+We motivate our research and give and account on our progress on enabling technology constructed in the context of an applied project called Live Game Design.
+We demonstrate two live programming environments we created for 1) a simple State Machine Language; and 2) Micro-Machinations, a Domain-Specific Language for game economies.
 
 ### Introduction
 Imagination is at the root of every improvement. We see how something is lacking, we imagine an improvement, set out to achieve a new goal and find new solutions with varying degrees of success. Making improvements often goes wrong because our imagination did not accurately predict the outcomes of our actions.
@@ -90,7 +89,7 @@ The engine that drives this tool not yet published, but requires a rather differ
 
 
 ### Conclusions
-We described progress on enabling technology for languages and tools for live programming and game design, and shared our vision on how they support an interactive exploration of the design space.
+We described progress on enabling technology for languages and tools for live programming and game design, and shared our perspective on how they support an interactive exploration of the design space.
 We motivated our research and gave and account on our progress by demonstrating live programming environments for State Machines and Micro-Machinations.
 
 ### Bibliography
