@@ -12,7 +12,7 @@ categories: draft
 Live Modeling is a research area in Model-Driven Engineering that studies how to improve the affordances of languages, tools and techniques by providing immediate and continuous feedback about how visual changes to the source code (or model) affect running programs.
 Instead of long edit-compile-run cycles, every update to the model is immediately visible in the running application and its programming environment.
 Here we share our perspective on how these tools support interactive design space exploration.
-We motivate our research and give and account on our progress on enabling technology constructed in the context of an applied project called Live Game Design.
+We motivate our research and clarify our position by giving an account of our progress on enabling technology constructed in the context of an applied project called Live Game Design.
 We demonstrate two live programming environments we created for 1) a simple State Machine Language; and 2) Micro-Machinations, a Domain-Specific Language for game economies.
 
 ### Introduction
