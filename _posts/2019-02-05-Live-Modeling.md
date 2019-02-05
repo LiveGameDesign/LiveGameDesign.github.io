@@ -36,7 +36,7 @@ In van Rozen and van der Storm [1], we describe first steps towards general, reu
 The following movie demonstrates how this works for a simple State Machine Language.
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true"  width="800">
+  <video controls="true" allowfullscreen="true"  width="100%">
     <source src="/assets/sml-live.mp4">
   </video>
 </figure>
@@ -65,7 +65,7 @@ We show a simple diagram that uses only global variables, like the Machinations 
 On the left we see the *edit view* and on the left the *run-time view*. As soon as an interactive node is added, it can be activated to see how the resources flow.
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="800">
+  <video controls="true" allowfullscreen="true" width="100%">
     <source src="/assets/mm_simple.mp4">
   </video>
 </figure>
@@ -76,7 +76,7 @@ A first attempt at modeling a version Farmville also works surprisingly well.
 We now see the definitions in the *edit view* on the left have running instances at run time in the *run-time view* on the right, which are updated every time we edit.
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="800">
+  <video controls="true" allowfullscreen="true" width="100%">
     <source src="/assets/mm_objects.mp4">
   </video>
 </figure>
