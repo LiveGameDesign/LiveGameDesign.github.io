@@ -20,7 +20,7 @@ Imagination is at the root of every improvement. We see how something is lacking
 
 Practitioners and researchers have invented *iterative design processes* to gather early feedback on the qualities of our work and improve solutions step by step, gradually improving our insight, constantly checking if we are still on track with respect to changing goals. On the one hand we rely on our imagination to take the right course of action, and on the other hand we do not know yet what that should be because we still have to learn what the solution can become.
 
-Experienced software engineers construct *mental models* of the systems they built. They can predict with uncanny accuracy how a program works, how it is failing and how it can be improved. Programming is mostly done by imagining improvements and then implementing them, finding out how you were wrong during a lengthy debugging sessions and fixing bugs, repairing mistakes, and of course improving your predictions in the mean time.
+Experienced software engineers construct *mental models* of the systems they build. They can predict with uncanny accuracy how a program works, how it is failing and how it can be improved. Programming is mostly done by imagining improvements and then implementing them, finding out how you were wrong during a lengthy debugging sessions and fixing bugs, repairing mistakes, and of course improving your predictions in the mean time.
 
 To achieve the highest possible quality, *understanding* how programming changes affect systems under development with respect to a goal is paramount. However, the changes themselves are not often explicitly represented. Instead, engineers create a new version of the source code of a program by making changes here and there, but commonly only see the effects when they recompile or reinterpret and run that code again. This is especially complicated for novice programmers who lack the mental model needed to make correct and meaningful changes to the source code. Instead, novices are left to guess and are forced to take a stab in the dark. This makes learning how to program a frustrating and difficult thing to do. How can you build your mental model if everything you try blows up in your face?
 
@@ -30,7 +30,7 @@ In live programming we do not assume that you already know what you are doing.
 Program, go forward, discover your imagination was wrong, learn and reimagine. Go back and try again, observe an improvement, enjoy the endorfines rushing through your brain and continue. Fail, that is ok, it's never a straight line to a goal, just keep modeling, you will get there in the end.
 We believe that *'exploring the failure space'* should not be tedious or repetitive, but instead quickly help identify dead ends and gradually find new exciting design alternatives.
 
-Our research focusses on explicitly representing changes of program models that help programmers and game designers quickly learn what their changes mean, enabling them to gradually improve both their insight and their programs [1].
+Our research focusses on explicitly representing changes of program models that help programmers in general and game designers in particular understand what their changes mean, enabling them to gradually improve both their insight and their programs [1].
 
 ### Live Programming for State Machines
 A key research challenge in live modeling is to determine how to migrate the application's run-time state with the changes to its source code.
