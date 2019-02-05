@@ -82,7 +82,7 @@ We now see the definitions in the *edit view* on the left have running instances
 </figure>
 
 As far as we know our live game design tool is the first of its kind.
-Of course, this is merely a proof of concept, and it needs additional development before industry can adopt it
+Of course, this is merely a proof of concept, and it needs additional development before industry can adopt it.
 The business initiative [machinations.io](https://machinations.io) is an industrial strength design tool (but not a programming language) with the same notation.
 
 ### Conclusions and Future Work
