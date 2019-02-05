@@ -31,7 +31,7 @@ In live programming we do not assume that you already know what you are doing. P
 Our research focusses on explicitly representing changes of program models that help programmers and game designers quickly learn what their changes mean, enabling them to gradually improve both their insight and their programs [1].
 
 ### Live Programming for State Machines
-A key research challenge in live modeling is to determine how to migrate the application's run-time state with the changes to the source code.
+A key research challenge in live modeling is to determine how to migrate the application's run-time state with the changes to its source code.
 In van Rozen and van der Storm [1], we describe first steps towards general, reusable and maintainable solutions, which entails *differencing* models and *patching* the run-time state to reflect the changes. 
 The following movie demonstrates how this works for a simple State Machine Language.
 
