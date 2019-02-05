@@ -54,10 +54,10 @@ The project Live Intelligent Visual Environments for Game Design, or Live Game D
 
 * **Applicable.** examples and material to learn how to apply the tools
 
-Here we demonstrate a new live programming environment for Machinations, a Domain-Specific Language for game economies.
+Here we demonstrate a new live programming environment for Micro-Machinations [2, 3, 4], a Domain-Specific Language for game economies that adds the programming language dimension to the design notation of Machinations [5].
 The tool supports simultaneously editing and running models, which enables immediate prototyping and continuous play testing.
-Ferdy van den Hoed (a bachelor student at the AUAS) built the front-end in Unity,
-while Riemer van Rozen built the back-end, a new C#-based library which is also embeddable in games that is based on prior research [1].
+Ferdy van den Hoed (a bachelor student at the AUAS) built the front-end in Unity.
+Riemer van Rozen built the back-end, a new C#-based library which is also embeddable in games that is based on prior research [1].
 As a result, games developed in Unity might profit from a built-in editor, though the final goal is platform independent remote manipulation.
 
 **Simple Model.**
@@ -74,7 +74,6 @@ On the left we see the *edit view* and on the left the *run-time view*. As soon 
 More complex models consist of more than just global variables. Instead, the name space consists of objects, which are instances of definitions.
 A first attempt at modeling a version Farmville also works surprisingly well.
 We now see the definitions in the *edit view* on the left have running instances at run time in the *run-time view* on the right, which are updated every time we edit.
-The engine that drives this tool not yet published, but requires a rather different way of programming. This will be a subject of a future research paper.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="800">
@@ -82,13 +81,28 @@ The engine that drives this tool not yet published, but requires a rather differ
   </video>
 </figure>
 
+As far as we know our live game design tool is the first of its kind.
+Of course, this is merely a proof of concept, and it needs additional development before industry can adopt it
+The business initiative [machinations.io](https://machinations.io) is an industrial strength design tool that with the same notation, which currently does not yet come with an embeddable game engine.
 
-### Conclusions
+### Conclusions and Future Work
 We described progress on enabling technology for languages and tools for live programming and game design, and shared our perspective on how they support an interactive exploration of the design space.
 We motivated our research and gave and account on our progress by demonstrating live programming environments for State Machines and Micro-Machinations.
 
-
+**Future Work.**
+The model transformation and state migration engine that drives these tools is not yet published. 
+This engine deals with events in a novel manner and requires a new way of thinking about how to build languages for live modeling.
+This will be a subject of a future research paper.
 
 ### Bibliography
 
 1. R. van Rozen and T. van der Storm. Toward Live Domain-Specific Languages: From Text Differencing to Adapting Models at Run Time. Pre-print of an article that appeared in Software & Systems Modeling, Springer, August 2017. [[pdf]](https://homepages.cwi.nl/~storm/publications/vRozenvdStorm2017_sosym_v3.pdf)
+
+2. P. Klint and R. van Rozen. Micro-Machinations: A DSL for Game Economies. In M. Erwig, R. Paige, and E. Van Wyk, editors, Software Language Engineering, volume 8225 of Lecture Notes in Computer Science, pages 36–55. Springer International Publishing, 2013. [[pdf]](http://oai.cwi.nl/oai/asset/21923/21923B.pdf)
+
+3. R. van Rozen and J. Dormans. Adapting Game Mechanics With Micro-Machinations. In Proceedings of the 9th International Conference on the Foundations of Digital Games (FDG). Society for the Advancement of the Science of Digital Games, April 2014. [[pdf]](http://oai.cwi.nl/oai/asset/23138/23138A.pdf)
+
+4. R. van Rozen. A Pattern-Based Game Mechanics Design Assistant. In Proceedings of the 10th International Conference on the Proceedings of Foundations of Digital Games (FDG). Society for the Advancement of the Science of Digital Games, June 2015. [[pdf]](http://oai.cwi.nl/oai/asset/23769/23769A.pdf)
+
+5. J. Dormans. Engineering Emergence - Applied Theory for Game Design, PhD Dissertation, 2012. [[pdf]](http://www.jorisdormans.nl/pdf/dormans_engineering_emergence.pdf)
+
