@@ -87,6 +87,8 @@ The engine that drives this tool not yet published, but requires a rather differ
 We described progress on enabling technology for languages and tools for live programming and game design, and shared our perspective on how they support an interactive exploration of the design space.
 We motivated our research and gave and account on our progress by demonstrating live programming environments for State Machines and Micro-Machinations.
 
+
+
 ### Bibliography
 
 1. R. van Rozen and T. van der Storm. Toward Live Domain-Specific Languages: From Text Differencing to Adapting Models at Run Time. Pre-print of an article that appeared in Software & Systems Modeling, Springer, August 2017. [[pdf]](https://homepages.cwi.nl/~storm/publications/vRozenvdStorm2017_sosym_v3.pdf)
