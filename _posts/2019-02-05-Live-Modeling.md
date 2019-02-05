@@ -83,7 +83,7 @@ We now see the definitions in the *edit view* on the left have running instances
 
 As far as we know our live game design tool is the first of its kind.
 Of course, this is merely a proof of concept, and it needs additional development before industry can adopt it
-The business initiative [machinations.io](https://machinations.io) is an industrial strength design tool that with the same notation, which currently does not yet come with an embeddable game engine.
+The business initiative [machinations.io](https://machinations.io) is an industrial strength design tool (but not a programming language) with the same notation.
 
 ### Conclusions and Future Work
 We described progress on enabling technology for languages and tools for live programming and game design, and shared our perspective on how they support an interactive exploration of the design space.
