@@ -72,16 +72,21 @@ On the left we see the *edit view* and on the left the *run-time view*. As soon 
   </video>
 </figure>
 
-**Farmville Model.**
+**Object Oriented Model.**
 More complex models consist of more than just global variables. Instead, the name space consists of objects, which are instances of definitions.
-A first attempt at modeling a version Farmville also works surprisingly well.
-We now see the definitions in the *edit view* on the left have running instances at run time in the *run-time view* on the right, which are updated every time we edit.
+A first attempt at modeling diagram inspired by a Farmville also works surprisingly well.
+The idea unfolds as follows: players have a farm, a farm has plots, plots have plants, and so on.
+We now see the definitions in the *edit view* on the left and run-time instances on the right, which are updated every time we edit.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="100%">
     <source src="/assets/mm_objects.mp4">
   </video>
 </figure>
+
+Note the similarity with Object Oriented Programming where classes have zero or more instances.
+The essential difference however is that in live modeling the program always runs. 
+Instead of something to be imagined, the run-time model is a fact and a consequence that can be observed and inspected.
 
 As far as we know our live game design tool is the first of its kind.
 Of course, this is merely a proof of concept, and it needs additional development before industry can adopt it.
