@@ -26,7 +26,9 @@ To achieve the highest possible quality, *understanding* how programming changes
 
 Imagine that we do explicitly represent change, that all changes we make to program models have meaning, and that we can study the effect of changes immediately and continuously. This enables checking with every little change if it had the effect what we imagined or learning how it did not, and combining lots of little changes for steering towards improvements of complete systems. This style of incremental updates with immediate feedback is called *live programming*.
 
-In live programming we do not assume that you already know what you are doing. Program, go forward, discover your imagination was wrong, learn and reimagine. Go back and try again, observe an improvement, enjoy the endorfines rushing through your brain and continue. Fail, that is ok, it's never a straight line to a goal, just model sideways and *'explore the failure space'*, you will get there in the end. 
+In live programming we do not assume that you already know what you are doing. 
+Program, go forward, discover your imagination was wrong, learn and reimagine. Go back and try again, observe an improvement, enjoy the endorfines rushing through your brain and continue. Fail, that is ok, it's never a straight line to a goal, just keep modeling, you will get there in the end.
+We believe that *'exploring the failure space'* should not be tedious or repetitive, but instead quickly help identify dead ends and gradually find new exciting design alternatives.
 
 Our research focusses on explicitly representing changes of program models that help programmers and game designers quickly learn what their changes mean, enabling them to gradually improve both their insight and their programs [1].
 
