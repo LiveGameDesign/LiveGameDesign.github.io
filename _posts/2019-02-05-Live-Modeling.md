@@ -2,11 +2,9 @@
 layout: post
 title:  "Exploring the Design Space with Live Modeling"
 date:   2019-02-05 14:00:00 +0100
-author: Riemer van Rozen, Amsterdam University of 
+author: Riemer van Rozen, Amsterdam University of Applied Sciences
 categories: draft of a short position paper
 ---
-
-Amsterdam University of Applied Sciences
 
 *Draft -- February 5th 2019*
 
