@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  "Exploring the Design Space with Live Modeling"
 date:   2019-02-05 14:00:00 +0100
@@ -40,7 +40,7 @@ A key research challenge in live modeling is to determine how to migrate the app
 In van Rozen and van der Storm [1], we describe first steps towards general, reusable and maintainable solutions, which entails *differencing* models and *patching* the run-time state to reflect the changes. 
 The following movie demonstrates how this works for a simple State Machine Language.
 
-<figure class="video_container">
+<figure class="video_container" width="800">
   <video controls="true" allowfullscreen="true">
     <source src="/assets/sml_live.mp4">
   </video>
@@ -69,7 +69,7 @@ As a result, games developed in Unity might profit from a built-in editor, thoug
 We show a simple diagram that uses only global variables, like the Machinations tool by Joris Dormans.
 On the left we see the *edit view* and on the left the *run-time view*. As soon as an interactive node is added, it can be activated to see how the resources flow.
 
-<figure class="video_container">
+<figure class="video_container" width="800">
   <video controls="true" allowfullscreen="true">
     <source src="/assets/mm_simple.mp4">
   </video>
@@ -81,7 +81,7 @@ A first attempt at modeling a version Farmville also works surprisingly well.
 We now see the definitions in the *edit view* on the left have running instances at run time in the *run-time view* on the right, which are updated every time we edit.
 The engine that drives this tool not yet published, but requires a rather different way of programming. This will be a subject of a future research paper.
 
-<figure class="video_container">
+<figure class="video_container" width="800">
   <video controls="true" allowfullscreen="true">
     <source src="/assets/mm_objects.mp4">
   </video>
