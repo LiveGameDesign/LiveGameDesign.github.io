@@ -42,7 +42,7 @@ The following movie demonstrates how this works for a simple State Machine Langu
 </figure>
 
 ### Live Game Design with Machinations
-The project Live Intelligent Visual Environments for Game Design, or Live Game Design for short, envisions LIVE game design tools that have the following qualities:
+The project Live Intelligent Visual Environments for Game Design, or LIVE Game Design for short, envisions *live game design tools* that have the following qualities:
 	
 * **Visual.** includes visual programming languages especially attuned to the expertise of game designers
 
