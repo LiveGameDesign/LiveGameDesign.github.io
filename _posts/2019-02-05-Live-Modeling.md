@@ -6,7 +6,7 @@ author: Riemer van Rozen, Amsterdam University of Applied Sciences
 categories: draft of a short position paper
 ---
 
-*Draft -- February 5th 2019*
+*Draft*
 
 **Abstract.**
 Live Modeling is a research area in Model-Driven Engineering that studies how to improve the affordances of languages, tools and techniques by providing immediate and continuous feedback about how visual changes to the source code (or model) affect running programs.
