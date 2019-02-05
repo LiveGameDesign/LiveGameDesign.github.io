@@ -32,7 +32,7 @@ We believe that *'exploring the failure space'* should not be tedious or repetit
 
 Our research focusses on explicitly representing changes of program models that help programmers in general and game designers in particular understand what their changes mean, enabling them to gradually improve both their insight and their programs [1].
 
-### Live Programming for State Machines
+### Live Programming of State Machines
 A key research challenge in live modeling is to determine how to migrate the application's run-time state with the changes to its source code.
 In van Rozen and van der Storm [1], we describe first steps towards general, reusable and maintainable solutions, which entails *differencing* models and *patching* the run-time state to reflect the changes. 
 The following movie demonstrates how this works for a simple State Machine Language.
@@ -86,7 +86,7 @@ We now see the definitions in the *edit view* on the left and run-time instances
 
 Note the similarity with Object Oriented Programming where classes have zero or more instances.
 The essential difference however is that in live modeling the program always runs. 
-Instead of something to be imagined, the run-time model is a fact and a consequence that can be observed and inspected.
+Instead of something to be imagined, the run-time model on the left is a fact and a consequence that can be observed and inspected.
 
 As far as we know our live game design tool is the first of its kind.
 Of course, this is merely a proof of concept, and it needs additional development before industry can adopt it.
