@@ -37,7 +37,7 @@ The following movie demonstrates how this works for a simple State Machine Langu
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true"  width="800">
-    <source src="/assets/sml_live.mp4">
+    <source src="/assets/sml-live.mp4">
   </video>
 </figure>
 
