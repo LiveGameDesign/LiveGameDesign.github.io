@@ -33,8 +33,9 @@ In good company, we see Rafaël Bidarra on the left and Julian Togelius on the r
 ### Conclusions
 Specification Analysis Reporting (SAnR) in particular may prove very useful, since debugging grammar rules in level generation histories is an important requirement for improving the quality of grammar-based content generators.
 
-Are MAD and SAnR odd names? Well, yes, but simultaneously debugging grammar rules and countless levels (both generated and potentially generated) feels MAD and becoming SanR seems urgent.
-In that light, the results game developers achieve using generative grammars seem even more fantastic.
+Are MAD and SAnR odd names? Well, yes, but simultaneously debugging grammar rules and countless levels (both generated and potentially generated) feels MAD and becoming SanR is urgent.
+In that light, the results game developers achieve using generative grammars seem even more amazing.
+This is a cutting-edge field where  practice and research can meet and explore the limits of procedural content generation.
 
 * **Symposium.** In case you wish to learn more, Quinten will give a talk at the [Symposium on Live Game Design](/project/update/2019/02/01/Live-Game-Design-Symposium.html) in Amsterdam on February 27th.
 
