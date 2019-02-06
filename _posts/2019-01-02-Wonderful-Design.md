@@ -32,9 +32,10 @@ Can you really program emotions?
 Well, that sounds like mind control...
 Let's say that the goal of this work is more friendly. It gently coaxes a players attention and feelings and helps focus and remain immersed by directing the shape and structure of the generated level content.
 This research represents important first steps towards *engineering emergence*.
-Additional validation, evaluation and extra patterns, could be part of future work.
 
-In case you wish to learn more, Rosa will give her talk at the [Symposium on Live Game Design](/project/update/2019/02/01/Live-Game-Design-Symposium.html) in Amsterdam on February 27th.
+* **Future Work.** Additional validation, evaluation and extra patterns, could be part of future work.
+
+* **Symposium.** In case you wish to learn more, Rosa will give her talk at the [Symposium on Live Game Design](/project/update/2019/02/01/Live-Game-Design-Symposium.html) in Amsterdam on February 27th.
 
 ### Bibliography
 1. R. Corstjens, A. Bouwer, J. Dormans and R. van Rozen. Wonderful Design: Applying Appraisal Theory to Procedural Level Generation. In Joint Proceedings of the AIIDE 2018 Workshops -- Proceedings of the 5th Workshop on Experimental AI in Games, EXAG 2018, co-located with 14th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment, AIIDE 2018, Edmonton, AB, Canada, November 13--17, 2018. CEUR-WS.org, CEUR Workshop Proceedings, vol: 2282. [[pdf]](http://ceur-ws.org/Vol-2282/EXAG_106.pdf)
