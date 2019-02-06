@@ -5,8 +5,8 @@ date:   2019-02-01 16:48:06 +0100
 author: Riemer van Rozen and Anders Bouwer, Amsterdam University of Applied Sciences
 categories: project update
 ---
-## Closing Symposium
-he Symposium on Live Game Design will be held in Amsterdam on Wednesday February 27th. We conclude 3 years of applied research, present results and discuss next steps. Let us know if you want to join. Registration is free but also mandatory.
+**Invitation.** The concluding afternoon Symposium on Live Game Design will be held in Amsterdam on Wednesday February 27th. 
+We invite game businesses, students, lecturers and researchers to participate. We present results of three years of applied research, and discuss next steps. Registration is free but also mandatory.
 
 **Date:** Wednesday February 27th, 2019.
 
@@ -21,10 +21,11 @@ This includes technology, languages and tools for game Design, the results of re
 ### Discussion
 We also look forward to what's next.
 What are the technical challenges Dutch game developers are facing?
-How can applied research into visual programming languages, tools and procedural content generation help tackle these challenges in the coming years?
+How can applied research into visual programming languages, tools and procedural content generation help?
+How can teams of students, lecturer/researchers and practitioners work together tackle these challenges in the coming years?
 
 ### Registration
-Registration is required. If you wish to participate please contact us via (livegamedesign@gmail.com) before Tuesday February 12th. Participation (including optional lunch) is free, but limited spaces are available.
+Registration is required. Please contact us via (livegamedesign@gmail.com) before Tuesday February 12th if you wish to participate. Participation (including optional lunch) is free, but limited spaces are available.
 
 ### Preliminary Program
 Please note that the schedule below may still change.
