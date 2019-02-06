@@ -35,7 +35,7 @@ Specification Analysis Reporting (SAnR) in particular may prove very useful, sin
 
 Are MAD and SAnR odd names? Well, yes, but simultaneously debugging grammar rules and countless levels (both generated and potentially generated) feels MAD and becoming SanR is urgent.
 In that light, the results game developers achieve using generative grammars seem even more amazing.
-This is a cutting-edge field where  practice and research can meet and explore the limits of procedural content generation.
+Clearly, this is cutting-edge technology that explores the limits of procedural content generation.
 
 * **Symposium.** In case you wish to learn more, Quinten will give a talk at the [Symposium on Live Game Design](/project/update/2019/02/01/Live-Game-Design-Symposium.html) in Amsterdam on February 27th.
 
@@ -45,7 +45,7 @@ This is a cutting-edge field where  practice and research can meet and explore t
 Generation: A Software Evolution Perspective. MSc Thesis. University of Amsterdam, Master of Software Engineering, August 30, 2018. [[pdf]](http://www.scriptiesonline.uba.uva.nl/document/661986)
 
 **Proceedings.**
-The full proceedings (the collection of papers) of FDG 2018 can be found here at DBLP [[url]](https://dblp.uni-trier.de/db/conf/fdg/fdg2018.html).
+The full proceedings (the collection of papers) of FDG 2018 can be found here at dblp [[url]](https://dblp.uni-trier.de/db/conf/fdg/fdg2018.html).
 The papers are available on the ACM digital library [[url]](https://dl.acm.org/citation.cfm?id=3235765).
 In case you don't have access, most authors share a pre-print you might find via Google Scholar.
 
