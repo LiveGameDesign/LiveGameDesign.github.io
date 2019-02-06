@@ -2,17 +2,17 @@
 layout: post
 title:  "Live Game Design Symposium"
 date:   2019-02-01 16:48:06 +0100
-author: Riemer van Rozen
+author: Riemer van Rozen and Anders Bouwer, Amsterdam University of Applied Sciences
 categories: project update
 ---
 ## Closing Symposium
-The concluding afternoon Symposium on Live Game Design.                                                          
+he Symposium on Live Game Design will be held in Amsterdam on Wednesday February 27th. We conclude 3 years of applied research, present results and discuss next steps. Let us know if you want to join. Registration is free but also mandatory.
 
 **Date:** Wednesday February 27th, 2019.
 
 **Location:** Volkshotel, Wibautstraat 150 Amsterdam.
 
-Please find details on the **mandatory registration** and the schedule below.
+Please find details on the registration and the schedule below.
 
 ### Results 
 The symposium will present the results of the applied research project Live Game Design (Live Intelligent Visual Environments for Game Design).
