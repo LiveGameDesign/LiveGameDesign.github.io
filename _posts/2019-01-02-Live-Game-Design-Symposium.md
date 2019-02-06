@@ -7,8 +7,8 @@ categories: project update
 ---
 **Invitation.** 
 We cordially invite you to the afternoon Symposium on Live Game Design, which will be held at the Volkshotel in Amsterdam on Wednesday February 27th.
-Together, game businesses, students, lecturers and researchers have worked on applied research for three years.
-At the concluding symposium, we will present results and discuss next steps.
+Together with game businesses, students, lecturers and researchers have worked on applied research for three years.
+At the concluding symposium, we will present our results and discuss next steps.
 We hope that you will join.
 Registration is mandatory but free.
 
