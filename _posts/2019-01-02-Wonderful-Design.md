@@ -19,6 +19,7 @@ The talk was well-received and sparked a lively discussion.
 
 ### Pattern-Based Level Transformation
 Rosa applied Ludoscope, a tool for procedural level generation developed by Joris Dormans. Ludoscope was successfully applied in Unexplored, a rogue-like dungeon crawler that lets players explore procedurally generated cyclic dungeons with puzzles, quests and rich encounters.
+This work is a case study related to the sequel to Unexplored.
 The following movie shows how a level is step-by-step transformed in the level transformation pipeline until it has the desired structures for appraisal and emotion patterns.
 
 <figure class="video_container">
