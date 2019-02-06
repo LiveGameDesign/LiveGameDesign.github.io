@@ -5,7 +5,7 @@ date:   2019-02-01 16:00:00 +0100
 author: Riemer van Rozen, Amsterdam University of Applied Sciences
 categories: project update
 ---
-*Updated Wednesday February 6th*
+*Updated Wednesday February 6th -- added slides, movie and thanks*
 
 ## Wonderful Design
 Rosa Corstjens and Anders Bouwer participated in the conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE) in Edmonton, Canada in November 2018.
