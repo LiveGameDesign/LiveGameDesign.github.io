@@ -5,8 +5,12 @@ date:   2019-02-01 16:48:06 +0100
 author: Riemer van Rozen and Anders Bouwer, Amsterdam University of Applied Sciences
 categories: project update
 ---
-**Invitation.** The concluding afternoon Symposium on Live Game Design will be held in Amsterdam on Wednesday February 27th. 
-We invite game businesses, students, lecturers and researchers to participate. We present results of three years of applied research, and discuss next steps. Registration is free but also mandatory.
+**Invitation.** 
+We cordially invite you to the concluding afternoon Symposium on Live Game Design, which will be held at the Volkshotel in Amsterdam on Wednesday February 27th.
+Together, game businesses, students, lecturers and researchers have worked on applied research for three years.
+At the symposium, we will present results and discuss next steps.
+We hope that you will join.
+Registration is mandatory but free.
 
 **Date:** Wednesday February 27th, 2019.
 
@@ -16,7 +20,7 @@ Please find details on the registration and the schedule below.
 
 ### Results 
 The symposium will present the results of the applied research project Live Game Design (Live Intelligent Visual Environments for Game Design).
-This includes technology, languages and tools for game Design, the results of related student projects, and the results of the three case studies with companies (Ludomotion, Firebrush Studios and IC3D Media).
+This includes technology, languages and tools for game Design, the results of related student projects, and the results of the three case studies with companies: Ludomotion, Firebrush Studios and IC3D Media.
 
 ### Discussion
 We also look forward to what's next.
