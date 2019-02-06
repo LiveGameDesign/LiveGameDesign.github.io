@@ -5,7 +5,7 @@ date:   2019-02-01 16:00:00 +0100
 author: Riemer van Rozen, Amsterdam University of Applied Sciences
 categories: project update
 ---
-*Updated Wednesday February 6th -- added slides, movie and thanks*
+*Updated Wednesday February 6th 2019*
 
 ## Wonderful Design
 Rosa Corstjens and Anders Bouwer participated in the conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE) in Edmonton, Canada in November 2018.
@@ -18,8 +18,9 @@ The talk was well-received and sparked a lively discussion.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I feel like this slide is peak EXAG <a href="https://twitter.com/hashtag/EXAG18?src=hash&amp;ref_src=twsrc%5Etfw">#EXAG18</a> <a href="https://t.co/FQItlWWTlg">pic.twitter.com/FQItlWWTlg</a></p>&mdash; Chris Martens (@chrisamaphone) <a href="https://twitter.com/chrisamaphone/status/1062811185668489216?ref_src=twsrc%5Etfw">November 14, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### Pattern-Based Level Transformation
-Rosa applied Ludoscope, a tool for procedural level generation developed by Joris Dormans. Ludoscope was successfully applied in Unexplored, a rogue-like dungeon crawler that lets players explore procedurally generated cyclic dungeons with puzzles, quests and rich encounters.
+Rosa applied Ludoscope, a tool for procedural level generation developed by Joris Dormans. Ludoscope was successfully used for Unexplored, a rogue-like dungeon crawler that lets players explore procedurally generated cyclic dungeons with puzzles, quests and rich encounters.
 This work is a case study related to the sequel to Unexplored.
+
 The following movie shows how a level is step-by-step transformed in the level transformation pipeline until it has the desired structures for appraisal and emotion patterns.
 
 <figure class="video_container">
