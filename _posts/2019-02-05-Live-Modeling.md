@@ -56,9 +56,9 @@ The project Live Intelligent Visual Environments for Game Design, or LIVE Game D
 
 * **Applicable.** examples and material to learn how to apply the tools
 
-Here we demonstrate a new live programming environment for Micro-Machinations [2, 3, 4], a Domain-Specific Language for game economies that adds the programming language dimension to the design notation of Machinations [5].
+Here we demonstrate a new live programming environment for Micro-Machinations [2,3,4], a Domain-Specific Language for game economies that adds the programming language dimension to the design notation of Machinations [5].
 The tool supports simultaneously editing and running models, which enables immediate prototyping and continuous play testing.
-Ferdy van den Hoed (a bachelor student at the AUAS) built the front-end in Unity.
+Ferdy van den Hoed (a bachelor student at the AUAS) built the front-end in Unity in the context of an internship at Firebrush Studios, with Paul Brinkkemper.
 Riemer van Rozen built the back-end, a new C#-based library which is also embeddable in games that is based on prior research [1].
 As a result, games developed in Unity might profit from a built-in editor, though the final goal is platform independent remote manipulation.
 
@@ -100,6 +100,8 @@ We motivated our research and gave and account on our progress by demonstrating 
 The model transformation and state migration engine that drives these tools is not yet published. 
 This engine deals with events in a novel manner and requires a new way of thinking about how to build languages for live modeling.
 This will be a subject of a future research paper.
+
+**Thanks.** We thank Paul Brinkkemper for his continued collaboration with us in applied research on Automated Game Design.
 
 ### Bibliography
 

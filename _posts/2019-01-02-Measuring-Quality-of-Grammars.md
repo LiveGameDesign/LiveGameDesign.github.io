@@ -2,10 +2,10 @@
 layout: post
 title:  "Measuring Quality of Grammars for Procedural Level Generation"
 date:   2019-02-01 15:00:00 +0100
-author: Riemer van Rozen
+author: Riemer van Rozen, Amsterdam University of Applied Sciences
 categories: project update
 ---
-* Updated Wednesday February 6th 2019*
+*Updated Wednesday February 6th 2019*
 
 ## Improving Debuggers for Procedural Game Levels
 Quinten Heijn and Riemer van Rozen participated in the International Conference on the Foundations of Digital Games (FDG), in Malmö, Sweden in August 2018.
@@ -14,17 +14,18 @@ Their talk at the Procedural Content Generation in Games (PCG) workshop, a part 
 It was written in the context of Quinten's MSc project, which was in collaboration with Joris Dormans of Ludomotion.
 
 Following a very interesting related topic presented by Tom Smith on generating graphs for Zelda-style levels via Answer-Set Programming,
-Riemer gave an introduction into Software Evolution which framed the talk, a perspective that is not usually applied in games research.
-Analyzing the output of content generators is a key challenge, but analyzing the source code of the generators another.
-
+Riemer gave an introduction into Software Evolution which framed the talk, an unusual perspective for games research.
 According to Antonios Liapis, Joris was virtually present too.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Feels like Joris &amp; <a href="https://twitter.com/PlayUnexplored?ref_src=twsrc%5Etfw">@PlayUnexplored</a> have a special virtual seat in this session. 2nd talk is on judging code quality of grammar-based dungeon generation. It&#39;s a Software Evolution approach for root-cause analysis in PCG, cool for explainable AI for white-box PCG? Shoutout <a href="https://twitter.com/jichenz?ref_src=twsrc%5Etfw">@jichenz</a> <a href="https://t.co/udCCbDA9aL">pic.twitter.com/udCCbDA9aL</a></p>&mdash; Antonios Liapis (@SentientDesigns) <a href="https://twitter.com/SentientDesigns/status/1026763935079251970?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+Analyzing the output of content generators is a key challenge, but determining root-causes of quality issues in the source code of the generators is another.
+
 Quinten presented the main contributions of the paper, showing movies of LudoScope Lite, a prototype level generator and analyzer (currently limited to tile maps), which is available on [[github]](https://github.com/visknut/LudoscopeLite).
 LudoScope Lite demonstrates two techniques that developers can use to analyse the root causes of quality issues in generated levels.
 First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
-Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties, which facilitates debugging and preventing bad levels are ever generated.
+Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties and reports problematic grammar rules.
+This facilitates debugging and can be used to prevent bad levels from being generated.
 
 In good company, we see Rafaël Bidarra on the left and Julian Togelius on the right.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/VisKnut?ref_src=twsrc%5Etfw">@VisKnut</a> explaining declarative game level properties for measuring the quality of grammars for procedural level generation <a href="https://twitter.com/PcgWorkshop?ref_src=twsrc%5Etfw">@PcgWorkshop</a> <a href="https://twitter.com/hashtag/FDG18?src=hash&amp;ref_src=twsrc%5Etfw">#FDG18</a> <a href="https://t.co/JVxAVyMSRO">pic.twitter.com/JVxAVyMSRO</a></p>&mdash; Riemer van Rozen (@rvrozen) <a href="https://twitter.com/rvrozen/status/1026770246655504384?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -32,7 +33,8 @@ In good company, we see Rafaël Bidarra on the left and Julian Togelius on the r
 ### Conclusions
 Specification Analysis Reporting (SAnR) in particular may prove very useful, since debugging grammar rules in level generation histories is an important requirement for improving the quality of grammar-based content generators.
 
-Are MAD and SAnR odd names? Well, simultaneously debugging countless levels (both generated and potentially generated)  feels MAD and becoming SanR seems like a good goal.
+Are MAD and SAnR odd names? Well, yes, but simultaneously debugging grammar rules and countless levels (both generated and potentially generated) feels MAD and becoming SanR seems urgent.
+In that light, the results game developers achieve using generative grammars seem even more fantastic.
 
 * **Symposium.** In case you wish to learn more, Quinten will give a talk at the [Symposium on Live Game Design](/project/update/2019/02/01/Live-Game-Design-Symposium.html) in Amsterdam on February 27th.
 
@@ -51,3 +53,5 @@ The city council of Malmö warmly welcomed the  conference participants to a rec
 We thank the organizers for a great conference!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/fdg18?src=hash&amp;ref_src=twsrc%5Etfw">#fdg18</a> gala dinner at the Town Hall thanks to <a href="https://twitter.com/malmostad?ref_src=twsrc%5Etfw">@malmostad</a> &#39;s support. <a href="https://t.co/hSTAD7IKZx">pic.twitter.com/hSTAD7IKZx</a></p>&mdash; Jose Maria Font (@erfont) <a href="https://twitter.com/erfont/status/1027642451329200129?ref_src=twsrc%5Etfw">August 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Finally, we thank Joris Dormans for his continued collaboration with us in applied research on PCG and Automated Game Design.
