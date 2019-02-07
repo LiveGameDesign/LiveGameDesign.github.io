@@ -21,7 +21,9 @@ According to Antonios Liapis, Joris was virtually present too.
 
 Analyzing the output of content generators is a key challenge, but determining root-causes of quality issues in the source code of the generators is another.
 
-Quinten presented the main contributions of the paper, showing movies of LudoScope Lite, a prototype level generator and analyzer he built (currently limited to tile maps), which is available on [[github]](https://github.com/visknut/LudoscopeLite).
+Quinten presented the main contributions of the paper, showing movies of LudoScope Lite.
+LudoScope Lite is a prototype level generator and analyzer (currently limited to tile maps) built by Quinten using [Rascal](https://www.rascal-mpl.org), a meta-programming language and a language work bench.
+The prototype is available on [[github]](https://github.com/visknut/LudoscopeLite).
 
 In good company, we see Rafaël Bidarra on the left and Julian Togelius on the right.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/VisKnut?ref_src=twsrc%5Etfw">@VisKnut</a> explaining declarative game level properties for measuring the quality of grammars for procedural level generation <a href="https://twitter.com/PcgWorkshop?ref_src=twsrc%5Etfw">@PcgWorkshop</a> <a href="https://twitter.com/hashtag/FDG18?src=hash&amp;ref_src=twsrc%5Etfw">#FDG18</a> <a href="https://t.co/JVxAVyMSRO">pic.twitter.com/JVxAVyMSRO</a></p>&mdash; Riemer van Rozen (@rvrozen) <a href="https://twitter.com/rvrozen/status/1026770246655504384?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -35,7 +37,7 @@ Players have to traverse the room without being burnt by fire pillars. They can 
   </video>
 </figure>
 
-The prototype of LudoScope Lite demonstrates two techniques that developers can use to analyse the root causes of quality issues in generated levels.
+LudoScope Lite demonstrates two techniques that developers can use to analyse the root causes of quality issues in generated levels.
 First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
 Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties and reports problematic grammar rules.
 
