@@ -5,7 +5,7 @@ date:   2019-02-01 15:00:00 +0100
 author: Riemer van Rozen, Amsterdam University of Applied Sciences
 categories: project update
 ---
-*Updated Wednesday February 6th 2019*
+*Updated Wednesday February 7th 2019*
 
 ## Improving Debuggers for Procedural Game Levels
 Quinten Heijn and Riemer van Rozen participated in the International Conference on the Foundations of Digital Games (FDG), in Malmö, Sweden in August 2018.
@@ -33,9 +33,9 @@ In good company, we see Rafaël Bidarra on the left and Julian Togelius on the r
 ### Conclusions
 Specification Analysis Reporting (SAnR) in particular may prove very useful, since debugging grammar rules in level generation histories is an important requirement for improving the quality of grammar-based content generators.
 
-Are MAD and SAnR odd names? Well, yes, but simultaneously debugging grammar rules and countless levels (both generated and potentially generated) feels MAD and becoming SanR is urgent.
-In that light, the results game developers achieve using generative grammars seem even more amazing.
-Clearly, this is cutting-edge technology that explores the limits of procedural content generation.
+Are MAD and SAnR odd names? Well, yes, but simultaneously debugging grammar rules and potentially countless levels feels MAD, and therefore becoming SanR must be urgent.
+In that light, the results game developers achieve using generative grammars are not just good, but astonishing. Apparently one can develop an intuition of effects that enables steering for quality, even if debugging facilities are lacking or completely missing.
+This cutting-edge technology explores the limits of procedural content generation, and it deserves the attention of researchers who can help developers push those limits forward.
 
 * **Symposium.** In case you wish to learn more, Quinten will give a talk at the [Symposium on Live Game Design](/project/update/2019/02/01/Live-Game-Design-Symposium.html) in Amsterdam on February 27th.
 
