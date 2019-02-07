@@ -31,11 +31,9 @@ In good company, we see Rafaël Bidarra on the left and Julian Togelius on the r
 The movie below demonstrates a simple example game level of a dungeon room.
 Players have to traverse the room without being burnt by fire pillars. They can use water from a pond to extinguish the flames.
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="320">
-    <source src="/assets/PCG2018_demo_level.mp4">
-  </video>
-</figure>
+| tile map | game |
+|:---------|:-----|
+| ![alt text](/assets/PCG2018_tile_map.png "Tile Map") | <figure class="video_container"><video controls="true" allowfullscreen="true" width="320"><source src="/assets/PCG2018_demo_level.mp4"></video></figure> |
 
 LudoScope Lite demonstrates two techniques that developers can use to analyse the root causes of quality issues in generated levels.
 First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
