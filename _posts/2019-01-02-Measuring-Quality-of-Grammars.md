@@ -31,7 +31,7 @@ The player has to traverse the room without being burnt by fire pillars.
 However, luckily players can use water from a pond to extinguish the flames.
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" width="100%">
+  <video controls="true" allowfullscreen="true" width="320">
     <source src="/assets/PCG2018_demo_level.mp4">
   </video>
 </figure>
