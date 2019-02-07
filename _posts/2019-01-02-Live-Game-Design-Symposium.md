@@ -12,17 +12,8 @@ At the concluding symposium, we will present project results and discuss next st
 We hope that you will join.
 Registration is mandatory but free.
 
-<table style="width:100%">
-  <tr>
-    <td>
-    **Date:** Wednesday February 27th, 2019. <br>
-    **Location:** Volkshotel, Wibautstraat 150 Amsterdam.
-    </td>
-    <td>
-    <img src="/assets/LGD.svg" width="100%"> 
-    </td>
-  </tr>
-</table>
+|:-------------:|:--------------:|
+**Date:** Wednesday February 27th, 2019. **Location:** Volkshotel, Wibautstraat 150 Amsterdam. | <img src="/assets/LGD.svg" width="100%"> |
 
 Please find details on the registration and the schedule below.
 
