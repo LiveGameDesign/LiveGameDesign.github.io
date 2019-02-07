@@ -36,7 +36,7 @@ However, luckily players can use water from a pond to extinguish the flames.
   </video>
 </figure>
 
-The movie below shows how LudoScope Lite generates the tile map of this level.
+The movie below shows how LudoScope Lite generates the tile map that conforms to each of the properties on the right.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="100%">
@@ -48,7 +48,7 @@ LudoScope Lite is a prototype that demonstrates two techniques that developers c
 First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
 Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties and reports problematic grammar rules.
 
-The movie below demonstrates how SAnR finds broken levels given a set of simple properties. SAnR facilitates debugging and can be used to prevent bad levels from being generated.
+The movie below demonstrates how SAnR finds broken levels. This facilitates debugging and can be used to prevent bad levels from being generated.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="100%">
