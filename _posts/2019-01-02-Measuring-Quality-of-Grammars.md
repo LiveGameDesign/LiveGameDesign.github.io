@@ -27,8 +27,7 @@ In good company, we see Rafaël Bidarra on the left and Julian Togelius on the r
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/VisKnut?ref_src=twsrc%5Etfw">@VisKnut</a> explaining declarative game level properties for measuring the quality of grammars for procedural level generation <a href="https://twitter.com/PcgWorkshop?ref_src=twsrc%5Etfw">@PcgWorkshop</a> <a href="https://twitter.com/hashtag/FDG18?src=hash&amp;ref_src=twsrc%5Etfw">#FDG18</a> <a href="https://t.co/JVxAVyMSRO">pic.twitter.com/JVxAVyMSRO</a></p>&mdash; Riemer van Rozen (@rvrozen) <a href="https://twitter.com/rvrozen/status/1026770246655504384?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 The movie below demonstrates a simple example game level of a dungeon room.
-The player has to traverse the room without being burnt by fire pillars.
-However, luckily players can use water from a pond to extinguish the flames.
+Players have to traverse the room without being burnt by fire pillars. They can use water from a pond to extinguish the flames.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="320">
@@ -40,7 +39,7 @@ The prototype of LudoScope Lite demonstrates two techniques that developers can 
 First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
 Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties and reports problematic grammar rules.
 
-The movie below shows how it generates the tile map of a level that conforms to each of the properties on the right.
+The movie below shows how it generates the tile map of a level that conforms to each of the level properties on the right.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="100%">
