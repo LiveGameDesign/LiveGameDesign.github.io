@@ -38,7 +38,7 @@ LL demonstrates two techniques that developers can use to analyse the root cause
 First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
 Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties and reports problematic grammar rules.
 
-The movie below demonstrate a pipeline of three stages (modules m1..m3) containing grammar rules that generate a level conforming to each of its level properties.
+The movie below demonstrates how a pipeline of three stages (consisting of modules m1..m3 that each contain grammar rules) generates a level conforming to each of its level properties.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="100%">
