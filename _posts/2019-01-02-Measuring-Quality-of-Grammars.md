@@ -33,13 +33,13 @@ Players have to traverse the room without being burnt by fire pillars. They can 
 
 | tile map | game |
 |:---------|:-----|
-| ![alt text](/assets/PCG2018_tile_map.png "Tile Map") | <figure class="video_container"><video controls="true" allowfullscreen="true" width="320"><source src="/assets/PCG2018_demo_level.mp4"></video></figure> |
+| <img src="assets/PCG2018_tile_map.png" width="40%"> | <figure class="video_container"><video controls="true" allowfullscreen="true" width="50%"><source src="/assets/PCG2018_demo_level.mp4"></video></figure> |
 
 LudoScope Lite demonstrates two techniques that developers can use to analyse the root causes of quality issues in generated levels.
 First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
 Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties and reports problematic grammar rules.
 
-The movie below shows how it generates the tile map of a level that conforms to each of the level properties, which define correct levels.
+The movie below demonstrate a pipeline of three stages (modules m1..m3) containing grammar rules that generate a level conforming to each of its level properties.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="100%">
