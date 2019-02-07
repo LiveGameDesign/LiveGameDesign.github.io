@@ -12,14 +12,14 @@ Quinten Heijn and Riemer van Rozen participated in the International Conference 
 
 Their talk at the Procedural Content Generation in Games (PCG) workshop, a part of FDG, was for a paper on Measuring Quality of Grammars for Procedural Level Generation [1].
 It was written in the context of Quinten's MSc project, which was in collaboration with Joris Dormans of Ludomotion.
+This work addresses the challenge of improving the quality of procedural level generation.
+Unlike other works that focus on the output of content generators, this work analyzes root-causes of quality issues in the source code (grammar rules) of the generators.
 
 Following a very interesting related topic presented by Tom Smith on generating graphs for Zelda-style levels via Answer-Set Programming,
-Riemer gave an introduction into Software Evolution which framed the talk, an unusual perspective for games research.
+Riemer gave an introduction into Software Evolution that framed the talk.
 According to Antonios Liapis, Joris was virtually present too.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Feels like Joris &amp; <a href="https://twitter.com/PlayUnexplored?ref_src=twsrc%5Etfw">@PlayUnexplored</a> have a special virtual seat in this session. 2nd talk is on judging code quality of grammar-based dungeon generation. It&#39;s a Software Evolution approach for root-cause analysis in PCG, cool for explainable AI for white-box PCG? Shoutout <a href="https://twitter.com/jichenz?ref_src=twsrc%5Etfw">@jichenz</a> <a href="https://t.co/udCCbDA9aL">pic.twitter.com/udCCbDA9aL</a></p>&mdash; Antonios Liapis (@SentientDesigns) <a href="https://twitter.com/SentientDesigns/status/1026763935079251970?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-Analyzing the output of content generators is a key challenge, but determining root-causes of quality issues in the source code of the generators is another.
 
 Quinten presented the main contributions of the paper, showing movies of LudoScope Lite.
 LudoScope Lite is a prototype level generator and analyzer (currently limited to tile maps) built by Quinten using [Rascal](https://www.rascal-mpl.org), a meta-programming language and a language work bench.
