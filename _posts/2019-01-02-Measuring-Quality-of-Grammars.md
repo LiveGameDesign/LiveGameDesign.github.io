@@ -36,7 +36,11 @@ However, luckily players can use water from a pond to extinguish the flames.
   </video>
 </figure>
 
-The movie below shows how LudoScope Lite generates the tile map that conforms to each of the properties on the right.
+The prototype of LudoScope Lite demonstrates two techniques that developers can use to analyse the root causes of quality issues in generated levels.
+First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
+Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties and reports problematic grammar rules.
+
+The movie below shows how it generates the tile map of a level that conforms to each of the properties on the right.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="100%">
@@ -44,11 +48,7 @@ The movie below shows how LudoScope Lite generates the tile map that conforms to
   </video>
 </figure>
 
-LudoScope Lite is a prototype that demonstrates two techniques that developers can use to analyse the root causes of quality issues in generated levels.
-First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
-Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties and reports problematic grammar rules.
-
-The movie below demonstrates how SAnR finds broken levels. This facilitates debugging and can be used to prevent bad levels from being generated.
+The movie below demonstrates how SAnR helps find broken levels, which facilitates debugging and can be used to prevent bad levels from being generated.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="100%">
