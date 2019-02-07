@@ -12,7 +12,7 @@ At the concluding symposium, we will present project results and discuss next st
 We hope that you will join.
 Registration is mandatory but free.
 
-![image alt >](/assets/LGD.svg){:width=40% }
+![image alt >](/assets/LGD.svg =200x)
 
 **Date:** Wednesday February 27th, 2019.
 
