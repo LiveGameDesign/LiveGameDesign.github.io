@@ -33,7 +33,7 @@ Players have to traverse the room without being burnt by fire pillars. They can 
 
 | tile map | game |
 |:---------|:-----|
-| <img src="/assets/PCG2018_tile_map.png" width="80%"> | <figure class="video_container"><video controls="true" allowfullscreen="true" width="90%"><source src="/assets/PCG2018_demo_level.mp4"></video></figure> |
+| <img src="/assets/PCG2018_tile_map.png" width="70%"> | <figure class="video_container"><video controls="true" allowfullscreen="true" width="80%"><source src="/assets/PCG2018_demo_level.mp4"></video></figure> |
 
 LudoScope Lite demonstrates two techniques that developers can use to analyse the root causes of quality issues in generated levels.
 First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
