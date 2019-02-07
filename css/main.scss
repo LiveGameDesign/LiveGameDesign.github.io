@@ -28,6 +28,8 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+img[alt$=">"] { float: right; }
+img[alt$="<"] { float: left;  }
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -41,7 +43,6 @@ $on-laptop:        800px;
         @content;
     }
 }
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
