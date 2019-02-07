@@ -59,7 +59,7 @@ Specification Analysis Reporting (SAnR) in particular may prove very useful, sin
 
 Are MAD and SAnR odd names? Well, yes, but simultaneously debugging grammar rules and potentially countless levels feels mad, and therefore becoming saner must be urgent.
 In that light, the results game developers achieve using generative grammars are not just good, but astonishing.
-Apparently one can develop an intuition (maybe even a mental model) of effects that enables steering for quality, even if debugging facilities are lacking or completely missing.
+Apparently one can develop an intuition of effects that enables steering for quality, even if debugging facilities are lacking or completely missing.
 This cutting-edge technology explores the limits of procedural content generation, and it deserves the attention of researchers who can help developers push those limits forward.
 
 * **Symposium.** In case you wish to learn more, Quinten will give a talk at the [Symposium on Live Game Design](/project/update/2019/02/01/Live-Game-Design-Symposium.html) in Amsterdam on February 27th.
