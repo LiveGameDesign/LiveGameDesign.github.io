@@ -40,9 +40,10 @@ Clearly, this is cutting-edge technology that explores the limits of procedural 
 * **Symposium.** In case you wish to learn more, Quinten will give a talk at the [Symposium on Live Game Design](/project/update/2019/02/01/Live-Game-Design-Symposium.html) in Amsterdam on February 27th.
 
 ### Bibliography
-1. R. van Rozen and Q. Heijn. Measuring Quality of Grammars for Procedural Level Generation. Chapter revision. In Proceedings of the 13th International Conference on Foundations of Digital Games, FDG, as part of the 9th Workshop on Procedural Content Generation, PCG, Malmö, Sweden, August 7--10, ACM, 2018. [[pdf]]({{ site.url }}/assets/vRozenHeijn2018.pdf)
+1. R. van Rozen and Q. Heijn. Measuring Quality of Grammars for Procedural Level Generation. Chapter revision. In Proceedings of the 13th International Conference on Foundations of Digital Games, FDG, as part of the 9th Workshop on Procedural Content Generation, PCG, Malmö, Sweden, August 7--10, 2018. [[pdf]]({{ site.url }}/assets/vRozenHeijn2018.pdf)
 2. Q. Heijn. Improving the Quality of Grammars for Procedural Level
 Generation: A Software Evolution Perspective. MSc Thesis. University of Amsterdam, Master of Software Engineering, August 30, 2018. [[pdf]](http://www.scriptiesonline.uba.uva.nl/document/661986)
+3. R van Rozen and Q. Heijn. Measuring Quality of Grammars for Procedural Level Generation. Presentation slide deck. In Proceedings of the 13th International Conference on Foundations of Digital Games, FDG, as part of the 9th Workshop on Procedural Content Generation, PCG, Malmö, Sweden, August 7--10, 2018. [[pdf]]({{ site.url }}/assets/PCG2018_slides_vRozenHeijn.pdf)
 
 **Proceedings.**
 The full proceedings (the collection of papers) of FDG 2018 can be found here at dblp [[url]](https://dblp.uni-trier.de/db/conf/fdg/fdg2018.html).
