@@ -18,7 +18,7 @@ Registration is mandatory but free.
 
 Please find details on the registration and the schedule below.
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
+<div style="float:right;margin:0 10px 10px 0" markdown="1">
     ![book](/assets/LGD.svg)
 </div>
 
