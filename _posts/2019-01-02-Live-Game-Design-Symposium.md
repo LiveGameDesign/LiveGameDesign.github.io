@@ -16,11 +16,11 @@ Registration is mandatory but free.
 
 **Location:** Volkshotel, Wibautstraat 150 Amsterdam.           
 
-Please find details on the registration and the schedule below.
-
 <div style="float:right;margin:0 10px 10px 0" markdown="1">
     ![book](/assets/LGD.svg)
 </div>
+
+Please find details on the registration and the schedule below.
 
 ### Results 
 The symposium will present the results of the applied research project Live Game Design (Live Intelligent Visual Environments for Game Design).
