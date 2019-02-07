@@ -41,7 +41,7 @@ LudoScope Lite demonstrates two techniques that developers can use to analyse th
 First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
 Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties and reports problematic grammar rules.
 
-The movie below shows how it generates the tile map of a level that conforms to each of the level properties on the right.
+The movie below shows how it generates the tile map of a level that conforms to each of the level properties, which define correct levels.
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="100%">
