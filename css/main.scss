@@ -28,8 +28,8 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-img[alt$=">"] { float: right; }
-img[alt$="<"] { float: left;  }
+img[alt$=">"] { float: right; width: 40%;}
+img[alt$="<"] { float: left;  width: 40%;}
 
 // Use media queries like this:
 // @include media-query($on-palm) {
