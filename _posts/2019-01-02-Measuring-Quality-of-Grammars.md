@@ -27,7 +27,8 @@ The prototype is available on [[github]](https://github.com/visknut/LudoscopeLit
 In good company, we see Rafaël Bidarra on the left and Julian Togelius on the right.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/VisKnut?ref_src=twsrc%5Etfw">@VisKnut</a> explaining declarative game level properties for measuring the quality of grammars for procedural level generation <a href="https://twitter.com/PcgWorkshop?ref_src=twsrc%5Etfw">@PcgWorkshop</a> <a href="https://twitter.com/hashtag/FDG18?src=hash&amp;ref_src=twsrc%5Etfw">#FDG18</a> <a href="https://t.co/JVxAVyMSRO">pic.twitter.com/JVxAVyMSRO</a></p>&mdash; Riemer van Rozen (@rvrozen) <a href="https://twitter.com/rvrozen/status/1026770246655504384?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-The movie below demonstrates a simple example game level of a dungeon room.
+We explain LL using a simple example: a game level of a dungeon room.
+Below, we see a tile map on the left and its running game instance on the right.
 Players have to traverse the room without being burnt by fire pillars. They can use water from a pond to extinguish the flames.
 
 | tile map | game |
