@@ -21,14 +21,40 @@ According to Antonios Liapis, Joris was virtually present too.
 
 Analyzing the output of content generators is a key challenge, but determining root-causes of quality issues in the source code of the generators is another.
 
-Quinten presented the main contributions of the paper, showing movies of LudoScope Lite, a prototype level generator and analyzer (currently limited to tile maps), which is available on [[github]](https://github.com/visknut/LudoscopeLite).
-LudoScope Lite demonstrates two techniques that developers can use to analyse the root causes of quality issues in generated levels.
-First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
-Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties and reports problematic grammar rules.
-This facilitates debugging and can be used to prevent bad levels from being generated.
+Quinten presented the main contributions of the paper, showing movies of LudoScope Lite, a prototype level generator and analyzer he built (currently limited to tile maps), which is available on [[github]](https://github.com/visknut/LudoscopeLite).
 
 In good company, we see Rafaël Bidarra on the left and Julian Togelius on the right.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/VisKnut?ref_src=twsrc%5Etfw">@VisKnut</a> explaining declarative game level properties for measuring the quality of grammars for procedural level generation <a href="https://twitter.com/PcgWorkshop?ref_src=twsrc%5Etfw">@PcgWorkshop</a> <a href="https://twitter.com/hashtag/FDG18?src=hash&amp;ref_src=twsrc%5Etfw">#FDG18</a> <a href="https://t.co/JVxAVyMSRO">pic.twitter.com/JVxAVyMSRO</a></p>&mdash; Riemer van Rozen (@rvrozen) <a href="https://twitter.com/rvrozen/status/1026770246655504384?ref_src=twsrc%5Etfw">August 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+The movie below demonstrates a simple example game level of a dungeon room.
+The player has to traverse the room without being burnt by fire pillars.
+However, luckily players can use water from a pond to extinguish the flames.
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" width="100%">
+    <source src="/assets/PCG2018_demo_level.mp4">
+  </video>
+</figure>
+
+The movie below shows how LudoScope Lite generates the tile map of this level.
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" width="100%">
+    <source src="/assets/PCG2018_generate_level.mp4">
+  </video>
+</figure>
+
+LudoScope Lite is a prototype that demonstrates two techniques that developers can use to analyse the root causes of quality issues in generated levels.
+First, the Metric of Added Detail (MAD) raises flags for grammar rules that remove detail with respect to their position in the transformation pipeline.
+Second, Specification Analysis Reporting (SAnR), analyzes level generation histories against level properties and reports problematic grammar rules.
+
+The movie below demonstrates how SAnR finds broken levels given a set of simple properties. SAnR facilitates debugging and can be used to prevent bad levels from being generated.
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" width="100%">
+    <source src="/assets/PCG2018_inspect_level.mp4">
+  </video>
+</figure>
 
 ### Conclusions
 Specification Analysis Reporting (SAnR) in particular may prove very useful, since debugging grammar rules in level generation histories is an important requirement for improving the quality of grammar-based content generators.
