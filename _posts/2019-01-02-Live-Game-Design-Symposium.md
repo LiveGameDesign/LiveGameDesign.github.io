@@ -18,7 +18,9 @@ Registration is mandatory but free.
 
 Please find details on the registration and the schedule below.
 
-<img src="/assets/LGD.svg" width="40%">
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+    ![book](/assets/LGD.svg)
+</div>
 
 ### Results 
 The symposium will present the results of the applied research project Live Game Design (Live Intelligent Visual Environments for Game Design).
