@@ -13,9 +13,13 @@ We hope that you will join.
 Registration is mandatory but free.
 
 |:-------------:|:--------------:|
-**Date:** Wednesday February 27th, 2019. **Location:** Volkshotel, Wibautstraat 150 Amsterdam. | <img src="/assets/LGD.svg" width="100%"> |
+**Date:** Wednesday February 27th, 2019.
 
-Please find details on the registration and the schedule below.
+**Location:** Volkshotel, Wibautstraat 150 Amsterdam. 
+
+Please find details on the registration and the schedule below.| <img src="/assets/LGD.svg" width="100%"> |
+
+
 
 ### Results 
 The symposium will present the results of the applied research project Live Game Design (Live Intelligent Visual Environments for Game Design).
