@@ -36,7 +36,8 @@ Registration is required. Please contact us via (livegamedesign@gmail.com) befor
 ### Preliminary Program
 Please note that the schedule below may still change.
 
-| time          | activity                                               |
+
+| time          | activity                                               |
 |:--------------|:-------------------------------------------------------|
 | 11:00 - 11:30 | Project meeting  (project partners)                    |
 | 11:30 - 12:15 | Future outlook discussion (project partners, invitees) |
