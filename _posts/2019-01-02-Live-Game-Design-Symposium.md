@@ -37,7 +37,7 @@ Registration is required. Please contact us via (livegamedesign@gmail.com) befor
 Please note that the schedule below may still change.
 
 
-| time                 | activity                                        |
+| Time                 | Activity                                        |
 |:---------------------|:------------------------------------------------|
 | 11:00 - 11:30 | Project meeting  (project partners)                    |
 | 11:30 - 12:15 | Future outlook discussion (project partners, invitees) |
