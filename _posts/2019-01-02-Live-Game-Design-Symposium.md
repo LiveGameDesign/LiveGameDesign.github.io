@@ -36,27 +36,27 @@ Registration is required. Please contact us via (livegamedesign@gmail.com) befor
 ### Preliminary Program
 Please note that the schedule below may still change.
 
-| time                     | activity                                                                         |
-|:-------------------------|:---------------------------------------------------------------------------------|
-| 11:00 - 11:30 | Project meeting  (project partners)                                                         |
-| 11:30 - 12:15 | Future outlook discussion (project partners, invitees).                                     |
-| 12:15 - 13:15 | Lunch (confirmed symposium participants)                                                    |
-| 13:15 - 13:30 | Opening: Exploring the Design Space with Live Game Design Tools, Anders Bouwer              |
-| 13:30 - 13:50 | Narrative World Generation, Rafael Bidarra (TU Delft)                                       |
-| 13:50 - 14:05 | Presentation about case study with IC3D Media, TBD                                          |
-| 14:05 - 14:20 | Live Modeling with Micro-Machinations, Ferdy van Den Hoed (HvA, Firebrush Studios)          |
-| 14:20 - 14:35 | Coffee Break                                                                                |
-| 14:35 - 14:45 | Supporting Technology for Live Programming, Riemer van Rozen                                |
-| 14:45 - 15:00 | Wonderful Design: Applying Appraisal Theory to Procedural Level Generation, Rosa Corstjens  |
-| 15:00 - 15:15 | Measuring Quality of Grammars for Procedural Level Generation, Quinten Heijn                |
-| 15:15 - 15:25 | Data Science for Educational Gameplay Design: Opportunities & Pitfalls, Mossa Merhi Reimert |
-| 15:25 - 15:45 | Languages of Games and Play: A Systematic Mapping Study, Riemer van Rozen                   |
-| 15:45 - 15:55 | Code Arena: Battling code clones in Minecraft with Rascal, Sander Meester and Simon Baars   |
-| 15:55 - 16:10 | Coffee Break                                                                                |
-| 16:10 - 16:30 | tak to be announced, Mark J. Nelson                                                                   |
-| 16:30 - 16:50 | Future outlook                                                                              |
-| 16:50 - 17:00 | Concluding remarks                                                                          |
-| 17:00 - :wink:| Drinks                                                                                      |
+| time          | activity                                               |
+|:--------------|:-------------------------------------------------------|
+| 11:00 - 11:30 | Project meeting  (project partners)                    |
+| 11:30 - 12:15 | Future outlook discussion (project partners, invitees) |
+| 12:15 - 13:15 | Lunch (confirmed symposium participants)               |
+| 13:15 - 13:30 | Opening: Exploring the Design Space with Live Game Design Tools, Anders Bouwer (HvA) |
+| 13:30 - 13:50 | Keynote presentation, [Mark J. Nelson](http://www.kmjn.org) (American University, Washington DC) |
+| 13:50 - 14:05 | Narrative World Generation, Rafael Bidarra (TU Delft)  |      
+| 14:05 - 14:20 | Presentation about case study with IC3D Media, Loren Roosendaal (Knowingo) |
+| 14:20 - 14:35 | Coffee Break                                                               |                 
+| 14:35 - 14:50 | Wonderful Design: Applying Appraisal Theory to Procedural Level Generation, Rosa Corstjens (HvA, Ludomotion)  |
+| 14:50 - 15:05 | Measuring Quality of Grammars for Procedural Level Generation, Quinten Heijn (UvA alumnus) |
+| 15:05 - 15:20 | Supporting Technology for Live Modeling, Riemer van Rozen (HvA, CWI)       |
+| 15:20 - 15:30 | Live Modeling with Micro-Machinations, Ferdy van Den Hoed (HvA, Firebrush Studios) |
+| 15:30 - 15:45 | Data Science for Educational Gameplay Design: Opportunities & Pitfalls, Mossa Merhi Reimert |
 
----
+| 15:45 - 16:00 | Coffee Break  
+| 16:00 - 16:15 | Languages of Games and Play: A Systematic Mapping Study, Riemer van Rozen (HvA, CWI)   |
+| 16:15 - 16:30 | Code Arena: Battling code clones in Minecraft with Rascal, Sander Meester and Simon Baars (University of Amsterdam,  Master of Software Engineering) |
+| 16:30 - 16:50 | Future outlook                                     |
+| 16:50 - 17:00 | Concluding remarks                                 |
+| 17:00 - :wink:| Drinks                                             |
+
 
