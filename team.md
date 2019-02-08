@@ -23,5 +23,7 @@ The Live Game Design project organization is as follows.
   * ir. Riemer van Rozen (HvA) -- Lead Researcher
   * Dr. Anders Bouwer (HvA)
   * Dr. Stefan Leijnen (HvA)
+  * Mossa Merhi Reimert, MSc (HvA)
   * Dr. Tijs van der Storm (CWI)
   * Dr.ir. Rafael Bidarra (TU Delft)
+  
