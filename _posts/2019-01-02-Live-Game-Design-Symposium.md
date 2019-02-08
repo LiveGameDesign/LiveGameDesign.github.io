@@ -54,7 +54,7 @@ Please note that the schedule below may still change.
 | 15:30 - 15:45 | Data Science for Educational Gameplay Design: Opportunities & Pitfalls, Mossa Merhi Reimert |
 | 15:45 - 16:00 | Coffee Break  
 | 16:00 - 16:15 | Languages of Games and Play: A Systematic Mapping Study, Riemer van Rozen (HvA, CWI)   |
-| 16:15 - 16:30 | Code Arena: Battling code clones in Minecraft with Rascal, Sander Meester and Simon Baars (University of Amsterdam,  Master of Software Engineering) |
+| 16:15 - 16:30 | Code Arena: Battling code clones in Minecraft with Rascal, Sander Meester and Simon Baars (UvA, Master of Software Engineering) |
 | 16:30 - 16:50 | Future outlook                                     |
 | 16:50 - 17:00 | Concluding remarks                                 |
 | 17:00 - :wink:| Drinks                                             |
