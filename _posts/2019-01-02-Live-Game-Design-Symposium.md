@@ -53,7 +53,7 @@ Please note that the schedule below may still change.
 | 15:25 - 15:45 | Languages of Games and Play: A Systematic Mapping Study, Riemer van Rozen                   |
 | 15:45 - 15:55 | Code Arena: Battling code clones in Minecraft with Rascal, Sander Meester and Simon Baars   |
 | 15:55 - 16:10 | Coffee Break                                                                                |
-| 16:10 - 16:30 | Guest Presentation (TBD)                                                                    |
+| 16:10 - 16:30 | tak to be announced, Mark J. Nelson                                                                   |
 | 16:30 - 16:50 | Future outlook                                                                              |
 | 16:50 - 17:00 | Concluding remarks                                                                          |
 | 17:00 - :wink:| Drinks                                                                                      |
