@@ -51,7 +51,7 @@ Please note that the schedule below may still change.
 | 14:50 - 15:05 | Measuring Quality of Grammars for Procedural Level Generation, Quinten Heijn (UvA alumnus) |
 | 15:05 - 15:20 | Supporting Technology for Live Modeling, Riemer van Rozen (HvA, CWI)       |
 | 15:20 - 15:30 | Live Modeling with Micro-Machinations, Ferdy van Den Hoed (HvA, Firebrush Studios) |
-| 15:30 - 15:45 | Data Science for Educational Gameplay Design: Opportunities & Pitfalls, Mossa Merhi Reimert |
+| 15:30 - 15:45 | Data Science for Educational Gameplay Design: Opportunities & Pitfalls, Mossa Merhi Reimert (HvA, Knowingo)|
 | 15:45 - 16:00 | Coffee Break  
 | 16:00 - 16:15 | Languages of Games and Play: A Systematic Mapping Study, Riemer van Rozen (HvA, CWI)   |
 | 16:15 - 16:30 | Code Arena: Battling code clones in Minecraft with Rascal, Sander Meester and Simon Baars (UvA, Master of Software Engineering) |
