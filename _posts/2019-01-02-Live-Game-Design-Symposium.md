@@ -43,7 +43,7 @@ Please note that the schedule below may still change.
 | 11:30 - 12:15 | Future outlook discussion (project partners, invitees) |
 | 12:15 - 13:15 | Lunch (confirmed symposium participants)               |
 | 13:15 - 13:30 | Opening: Exploring the Design Space with Live Game Design Tools, Anders Bouwer (HvA) |
-| 13:30 - 13:50 | Keynote presentation, [Mark J. Nelson](http://www.kmjn.org) (American University, Washington DC) |
+| 13:30 - 13:50 | Keynote: Semi-Automated Exploration of Game Design Space, [Mark J. Nelson](http://www.kmjn.org) (American University, Washington DC) |
 | 13:50 - 14:05 | Narrative World Generation, [Rafael Bidarra](https://graphics.tudelft.nl/rafael-bidarra/) (TU Delft)  |      
 | 14:05 - 14:20 | Presentation about case study with IC3D Media, Loren Roosendaal (Knowingo) |
 | 14:20 - 14:35 | Coffee Break                                                               |                 
