@@ -12,6 +12,8 @@ At the concluding symposium, we will present project results and discuss next st
 We hope that you will join.
 Registration is mandatory but free.
 
+**Late registration:** We still have a few spots available. Please contact Riemer or Anders.
+
 ![image alt >](/assets/LGD.svg)
 
 **Date:** Wednesday February 27th, 2019.
