@@ -41,6 +41,7 @@ Please note that the schedule below may still change.
 | 14:30 - :wink:| Drinks                               |
 
 
+
 ## Short Talks
 
 ### Talk 1: Procedural Generation Using Linear Constraints
@@ -57,3 +58,6 @@ Jim Whitehead is Professor of Computational Media at the University of Californi
 </td>
 </tr>
 </table>
+
+
+The other abstracts will be added here.
