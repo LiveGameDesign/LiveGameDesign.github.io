@@ -50,11 +50,11 @@ Please note that the schedule below may still change.
 
 <table>
 <tr>
-<td width="90%">
+<td width="85%">
 **Jim Whitehead** is Professor of Computational Media at the University of California, Santa Cruz. Within computer games, his research interests include procedural content generation, tools where humans and computer generators work collaboratively, serious games, and level design in games. He is the founding President of the Society for the Advancement of the Science of Digital Games which operates the yearly Foundations of Digital Games conference. 
 </td>
-<td width="10%">
-<img src="https://www.soe.ucsc.edu/people/ejw/photo/1" width="10%">
+<td width="15%">
+<img src="https://www.soe.ucsc.edu/people/ejw/photo/1" width="100%">
 </td>
 </tr>
 </table>
