@@ -46,12 +46,12 @@ Please note that the schedule below may still change.
 ## Abstracts
 
 ### Talk 1: Procedural Generation Using Linear Constraints
-Procedural content generation problems sometimes involve systems of linear equality and inequality constraints among the elements being generated. Cassowary is a constraint solver designed for solving these types of constraints at interactive speeds. It is widely used in user interface toolkits, and multiple implementations are available. To date, Cassowary has not been used in procedural content generation. This talk presents Cassowary and gives examples of its use in procedural content generation.
+**Abstract.** Procedural content generation problems sometimes involve systems of linear equality and inequality constraints among the elements being generated. Cassowary is a constraint solver designed for solving these types of constraints at interactive speeds. It is widely used in user interface toolkits, and multiple implementations are available. To date, Cassowary has not been used in procedural content generation. This talk presents Cassowary and gives examples of its use in procedural content generation.
 
 <table>
 <tr>
 <td width="90%">
-Jim Whitehead is Professor of Computational Media at the University of California, Santa Cruz. Within computer games, his research interests include procedural content generation, tools where humans and computer generators work collaboratively, serious games, and level design in games. He is the founding President of the Society for the Advancement of the Science of Digital Games which operates the yearly Foundations of Digital Games conference. 
+**Jim Whitehead** is Professor of Computational Media at the University of California, Santa Cruz. Within computer games, his research interests include procedural content generation, tools where humans and computer generators work collaboratively, serious games, and level design in games. He is the founding President of the Society for the Advancement of the Science of Digital Games which operates the yearly Foundations of Digital Games conference. 
 </td>
 <td width="10%">
 <img src="https://www.soe.ucsc.edu/people/ejw/photo/1" width="10%">
