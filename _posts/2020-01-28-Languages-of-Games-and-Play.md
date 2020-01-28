@@ -27,9 +27,8 @@ Please find the schedule and abstracts below.
 ### Preliminary Program
 Please note that the schedule below may still change.
 
-
-| Time                                       | Activity                      |
-|:----------------------------|:-----------------------------------|
+| Time                 | Activity                                        |
+|:---------------------|:------------------------------------------------|
 | 10:00 - 12:00 | PhD defense (Agnietenkapel, public event)           |
 | 12:00 - 13:00 | Lunch (confirmed participants)       |
 | 13:00 - 13:15 | Procedural Generation Using Linear Constraints, Prof. Dr. Jim Whitehead     |
