@@ -20,11 +20,9 @@ Following the defense, we organize a mini-symposium on Live Game Design. We invi
 
 **Registration.** [Registration is free](https://forms.gle/HvKScRCPc3piCoMZ6), but please let us know before February 11th 2020!
 
-Please find the detailed schedule below.
-
-### Short Talks 
+### Mini-symposium
 Distinguished speakers will each give a short talk, in which they will share their perspective on languages, models, techniques and tools for game design and development.
-Please find the program and abstracts below.
+Please find the schedule and abstracts below.
 
 ### Preliminary Program
 Please note that the schedule below may still change.
@@ -43,7 +41,7 @@ Please note that the schedule below may still change.
 | 14:30 - :wink:| Hotel Casa: UpperEast1 | Drinks                               |
 
 
-## Abstracts
+## Short Talks
 
 ### Talk 1: Procedural Generation Using Linear Constraints
 **Abstract.** Procedural content generation problems sometimes involve systems of linear equality and inequality constraints among the elements being generated. Cassowary is a constraint solver designed for solving these types of constraints at interactive speeds. It is widely used in user interface toolkits, and multiple implementations are available. To date, Cassowary has not been used in procedural content generation. This talk presents Cassowary and gives examples of its use in procedural content generation.
