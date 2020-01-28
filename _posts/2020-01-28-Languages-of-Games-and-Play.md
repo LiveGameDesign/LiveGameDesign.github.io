@@ -30,8 +30,8 @@ Please find the program and abstracts below.
 Please note that the schedule below may still change.
 
 
-| Time                        | Location               | Activity                             |
-|:----------------------------|:-----------------------|:-------------------------------------|
+| Time                        | Location         | Activity                             |
+|:----------------------------|:-----------------|:-------------------------------------|
 | 10:00 - 12:00 | Agnietenkapel          | PhD defense (public event)           |
 | 12:00 - 13:00 | Hotel Casa: East       | Lunch (confirmed participants)       |
 | 13:00 - 13:15 | Hotel Casa: UvA 2      | Procedural Generation Using Linear Constraints, Prof. Dr. Jim Whitehead     |
@@ -45,7 +45,7 @@ Please note that the schedule below may still change.
 
 ## Abstracts
 
-### Procedural Generation Using Linear Constraints
+### Talk 1: Procedural Generation Using Linear Constraints
 Procedural content generation problems sometimes involve systems of linear equality and inequality constraints among the elements being generated. Cassowary is a constraint solver designed for solving these types of constraints at interactive speeds. It is widely used in user interface toolkits, and multiple implementations are available. To date, Cassowary has not been used in procedural content generation. This talk presents Cassowary and gives examples of its use in procedural content generation.
 
 Jim Whitehead is Professor of Computational Media at the University of California, Santa Cruz. Within computer games, his research interests include procedural content generation, tools where humans and computer generators work collaboratively, serious games, and level design in games. He is the founding President of the Society for the Advancement of the Science of Digital Games which operates the yearly Foundations of Digital Games conference. 
