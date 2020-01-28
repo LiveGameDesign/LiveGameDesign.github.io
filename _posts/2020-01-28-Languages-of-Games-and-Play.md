@@ -23,14 +23,14 @@ Following the defense, we organize a mini-symposium on Live Game Design. We invi
 Please find the detailed schedule below.
 
 ### Short Talks 
-Distinguished speakers will each give a short talk, in which they share their perspective on languages, models, techniques and tools for game design and development.
+Distinguished speakers will each give a short talk, in which they will share their perspective on languages, models, techniques and tools for game design and development.
 Please find the program and abstracts below.
 
 ### Preliminary Program
 Please note that the schedule below may still change.
 
 
-| Time                        | Location         | Activity                           |
+| Time                            | Location         | Activity                           |
 |:----------------------------|:-----------------|:-----------------------------------|
 | 10:00 - 12:00 | Agnietenkapel          | PhD defense (public event)           |
 | 12:00 - 13:00 | Hotel Casa: East       | Lunch (confirmed participants)       |
