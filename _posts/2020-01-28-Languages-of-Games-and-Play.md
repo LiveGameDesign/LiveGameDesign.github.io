@@ -30,8 +30,8 @@ Please find the program and abstracts below.
 Please note that the schedule below may still change.
 
 
-| Time            | Location               | Activity                             |
-|:----------------|:-----------------------|:-------------------------------------|
+| Time              | Location               | Activity                             |
+|:------------------|:-----------------------|:-------------------------------------|
 | 10:00 - 12:00 | Agnietenkapel          | PhD defense (public event)           |
 | 12:00 - 13:00 | Hotel Casa: East       | Lunch (confirmed participants)       |
 | 13:00 - 13:20 | Hotel Casa: UvA 2      | Procedural Generation Using Linear Constraints, Prof. Dr. Jim Whitehead     |
