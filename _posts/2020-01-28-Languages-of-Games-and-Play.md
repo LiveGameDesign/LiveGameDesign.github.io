@@ -6,7 +6,7 @@ author: Riemer van Rozen, Amsterdam University of Applied Sciences
 categories: PhD defense
 ---
 **Invitation.** 
-We cordially invite you to attend the PhD defense of Riemer van Rozen on Wednesday February 19th at 10:00 am at the Agnietenkapel. Riemer defends his thesis: Languages of Games and Play: Automating Game Design & Enabling Live Programming.
+We cordially invite you to attend the PhD defense of Riemer van Rozen on Wednesday February 19th at 10:00 am at the Agnietenkapel. Riemer will defend his thesis "Languages of Games and Play: Automating Game Design & Enabling Live Programming".
 
 Following the defense, we organize a mini-symposium on Live Game Design. We invite you for a lunch (a warm meal), short talks by distinguished speakers and drinks at Hotel Casa. 
 
@@ -23,8 +23,7 @@ Following the defense, we organize a mini-symposium on Live Game Design. We invi
 Please find the detailed schedule below.
 
 ### Short Talks 
-Distinguished speakers will share their
-perspective on languages, models, techniques and tools for game design and development.
+Distinguished speakers will each give a short talk, in which they share their perspective on languages, models, techniques and tools for game design and development.
 Please find the program and abstracts below.
 
 ### Preliminary Program
