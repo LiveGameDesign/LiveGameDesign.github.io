@@ -12,13 +12,13 @@ Following the defense, we organize a mini-symposium on Live Game Design. We invi
 
 ![image alt >](/assets/Thesis_front_vRozen.jpg)
 
-**Date** Wednesday February 19th 2020
+**Date.** Wednesday February 19th 2020
 
-**Location 1: Defense** Agnietenkapel, Oudezijds Voorburgwal 229 - 231, 1012 EZ Amsterdam. [[url]](https://www.uva.nl/locaties/binnenstad/agnietenkapel.html)
+**Location 1: Defense.** Agnietenkapel, Oudezijds Voorburgwal 229 - 231, 1012 EZ Amsterdam. [[url]](https://www.uva.nl/locaties/binnenstad/agnietenkapel.html)
 
-**Location 2: Mini-symposium** Hotel Casa, Eerste Ringdijkstraat 4, 1097 BC, Amsterdam. [[url]](https://hotelcasa.nl/location/)
+**Location 2: Mini-symposium.** Hotel Casa, Eerste Ringdijkstraat 4, 1097 BC, Amsterdam. [[url]](https://hotelcasa.nl/location/)
 
-**Registration** [Registration is free](https://forms.gle/HvKScRCPc3piCoMZ6), but please let us know before February 11th 2020!
+**Registration.** [Registration is free](https://forms.gle/HvKScRCPc3piCoMZ6), but please let us know before February 11th 2020!
 
 Please find the detailed schedule below.
 
