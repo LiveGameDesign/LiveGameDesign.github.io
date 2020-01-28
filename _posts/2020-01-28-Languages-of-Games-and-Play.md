@@ -28,7 +28,7 @@ Please find the schedule and abstracts below.
 Please note that the schedule below may still change.
 
 
-| Time                                | Activity                           |
+| Time                                       | Activity                      |
 |:----------------------------|:-----------------------------------|
 | 10:00 - 12:00 | PhD defense (Agnietenkapel, public event)           |
 | 12:00 - 13:00 | Lunch (confirmed participants)       |
