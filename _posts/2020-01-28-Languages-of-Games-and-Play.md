@@ -12,7 +12,7 @@ Following the defense, we organize a mini-symposium on Live Game Design. We invi
 
 ![image alt >](/assets/Thesis_front_vRozen.jpg)
 
-**Date:** Wednesday February 19th
+**Date:** Wednesday February 19th 2020
 
 **Location 1: Defense:** Agnietenkapel, Oudezijds Voorburgwal 229 - 231, 1012 EZ Amsterdam. [[url]](https://www.uva.nl/locaties/binnenstad/agnietenkapel.html)
 
@@ -30,8 +30,8 @@ Please find the program and abstracts below.
 Please note that the schedule below may still change.
 
 
-| Time              | Location               | Activity                             |
-|:------------------|:-----------------------|:-------------------------------------|
+| Time                | Location               | Activity                             |
+|:--------------------|:-----------------------|:-------------------------------------|
 | 10:00 - 12:00 | Agnietenkapel          | PhD defense (public event)           |
 | 12:00 - 13:00 | Hotel Casa: East       | Lunch (confirmed participants)       |
 | 13:00 - 13:20 | Hotel Casa: UvA 2      | Procedural Generation Using Linear Constraints, Prof. Dr. Jim Whitehead     |
@@ -42,6 +42,8 @@ Please note that the schedule below may still change.
 | 14:25 - 14:40 | Hotel Casa: UvA 2      | (title to be announced) Prof Dr. Tijs van der Storm |
 | 14:40 - :wink:| Hotel Casa: UpperEast1 | Drinks                               |
 
+
+## Abstracts
 
 ### Procedural Generation Using Linear Constraints
 Procedural content generation problems sometimes involve systems of linear equality and inequality constraints among the elements being generated. Cassowary is a constraint solver designed for solving these types of constraints at interactive speeds. It is widely used in user interface toolkits, and multiple implementations are available. To date, Cassowary has not been used in procedural content generation. This talk presents Cassowary and gives examples of its use in procedural content generation.
