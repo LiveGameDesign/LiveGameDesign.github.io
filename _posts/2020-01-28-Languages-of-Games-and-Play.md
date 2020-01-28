@@ -28,17 +28,17 @@ Please find the schedule and abstracts below.
 Please note that the schedule below may still change.
 
 
-| Time                            | Location         | Activity                           |
-|:----------------------------|:-----------------|:-----------------------------------|
-| 10:00 - 12:00 | Agnietenkapel          | PhD defense (public event)           |
-| 12:00 - 13:00 | Hotel Casa: East       | Lunch (confirmed participants)       |
-| 13:00 - 13:15 | Hotel Casa: UvA 2      | Procedural Generation Using Linear Constraints, Prof. Dr. Jim Whitehead     |
-| 13:15 - 13:30 | Hotel Casa: UvA 2      | (title to be announced), Prof. Dr. Hans Vangheluwe   |
-| 13:30 - 13:45 | Hotel Casa             | Coffee Break                         |
-| 13:45 - 14:00 | Hotel Casa: UvA 2      | (title to be announced), Dr. Joris Dormans           |
-| 14:00 - 14:15 | Hotel Casa: UvA 2      | Narrative Game Worlds, Dr.ir. Rafael Bidarra       |
-| 14:15 - 14:30 | Hotel Casa: UvA 2      | (title to be announced) Prof Dr. Tijs van der Storm |
-| 14:30 - :wink:| Hotel Casa: UpperEast1 | Drinks                               |
+| Time                        | Activity                           |
+|:----------------------------|:-----------------------------------|
+| 10:00 - 12:00 | PhD defense (Agnietenkapel, public event)           |
+| 12:00 - 13:00 | Lunch (confirmed participants)       |
+| 13:00 - 13:15 | Procedural Generation Using Linear Constraints, Prof. Dr. Jim Whitehead     |
+| 13:15 - 13:30 | (title to be announced), Prof. Dr. Hans Vangheluwe   |
+| 13:30 - 13:45 | Coffee Break                         |
+| 13:45 - 14:00 | (title to be announced), Dr. Joris Dormans           |
+| 14:00 - 14:15 | Narrative Game Worlds, Dr.ir. Rafael Bidarra       |
+| 14:15 - 14:30 | (title to be announced) Prof Dr. Tijs van der Storm |
+| 14:30 - :wink:| Drinks                               |
 
 
 ## Short Talks
