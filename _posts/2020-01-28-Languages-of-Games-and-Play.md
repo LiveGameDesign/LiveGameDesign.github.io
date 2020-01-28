@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Languages of Games and Play"
-date:   2019-02-01 16:48:06 +0100
+date:   2020-02-01 13:50:06 +0100
 author: Riemer van Rozen, Amsterdam University of Applied Sciences
 categories: PhD defense
 ---
