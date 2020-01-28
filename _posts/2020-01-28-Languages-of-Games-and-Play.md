@@ -18,7 +18,7 @@ Following the defense, we organize a mini-symposium on Live Game Design. We invi
 
 **Location 2: Mini-symposium:** Hotel Casa, Eerste Ringdijkstraat 4, 1097 BC, Amsterdam. [url](https://hotelcasa.nl/location/)
 
-**Registration:** [Registration is free](https://forms.gle/HvKScRCPc3piCoMZ6). Let us know before February 11th 2020!
+**Registration:** [Registration is free](https://forms.gle/HvKScRCPc3piCoMZ6), but please let us know before February 11th 2020!
 
 Please find the detailed schedule below.
 
