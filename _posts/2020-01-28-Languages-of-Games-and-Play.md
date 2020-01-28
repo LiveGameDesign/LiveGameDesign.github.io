@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Languages of Games and Play"
-date:   2020-02-01 13:50:06 +0100
+date:   2020-01-28 13:50:06 +0100
 author: Riemer van Rozen, Amsterdam University of Applied Sciences
-categories: PhD defense
+categories: project update
 ---
 **Invitation.** 
 We cordially invite you to attend the PhD defense of Riemer van Rozen on Wednesday February 19th at 10:00 am at the Agnietenkapel. Riemer will defend his thesis "Languages of Games and Play: Automating Game Design & Enabling Live Programming".
