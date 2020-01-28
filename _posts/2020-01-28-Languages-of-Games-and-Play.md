@@ -30,7 +30,7 @@ Please note that the schedule below may still change.
 | Time                 | Activity                                        |
 |:---------------------|:------------------------------------------------|
 | 10:00 - 12:00   | PhD defense (Agnietenkapel, public event) |
-| goto Hotel Casa | :walking: + :metro: / :bike: / :car: |
+| goto Hotel Casa | :walking: + :metro: + :walking: (20 min) / :bike: (12 min) / :car: (20 min) |
 | 12:00 - 13:00   | Lunch (confirmed participants)       |
 | 13:00 - 13:20   | Procedural Generation Using Linear Constraints, Prof. Dr. Jim Whitehead     |
 | 13:20 - 13:40   | (title to be announced), Prof. Dr. Hans Vangheluwe   |
