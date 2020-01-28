@@ -30,7 +30,7 @@ Please note that the schedule below may still change.
 | Time                 | Activity                                        |
 |:---------------------|:------------------------------------------------|
 | 10:00 - 12:00 | PhD defense (Agnietenkapel, public event)           |
-| :walking: :tram: or :bike: or :car: | |
+| :walking: + :metro: or :bike: or :car: | |
 | 12:00 - 13:00 | Lunch (confirmed participants)       |
 | 13:00 - 13:20 | Procedural Generation Using Linear Constraints, Prof. Dr. Jim Whitehead     |
 | 13:20 - 13:40 | (title to be announced), Prof. Dr. Hans Vangheluwe   |
@@ -61,3 +61,9 @@ Please note that the schedule below may still change.
 
 
 The other abstracts will be added here.
+
+## Directions
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4872.045774487924!2d4.894817!3d52.370005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c09ccd7d53%3A0xaadb501c4aa17ff2!2sOudezijds%20Voorburgwal%20229%2C%201012%20EZ%20Amsterdam%2C%20Netherlands!5e0!3m2!1sen!2sus!4v1580223456444!5m2!1sen!2sus" width="360" height="240" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2437.1279074121935!2d4.916427316149673!3d52.34996537978224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c60978b33ac2bb%3A0x5b0599a83d21612b!2sHotel%20Casa%20Amsterdam!5e0!3m2!1sen!2sus!4v1580223535689!5m2!1sen!2sus" width="360" height="240" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
