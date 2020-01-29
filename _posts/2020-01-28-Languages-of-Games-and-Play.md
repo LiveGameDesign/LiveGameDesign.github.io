@@ -36,8 +36,8 @@ Please note that the schedule below may still change.
 | 13:20 - 13:40   | (title to be announced), Prof. Dr. Hans Vangheluwe   |
 | 13:40 - 13:55   | Coffee Break                         |
 | 13:55 - 14:10   | (title to be announced), Dr. Joris Dormans           |
-| 14:10 - 14:25   | Narrative Game Worlds, Dr.ir. Rafael Bidarra       |
-| 14:25 - 14:40   | (title to be announced) Prof Dr. Tijs van der Storm |
+| 14:10 - 14:25   | Narrative Game Worlds, Dr. ir. Rafael Bidarra       |
+| 14:25 - 14:40   | (title to be announced) Prof. Dr. Tijs van der Storm |
 | 14:40 - :wink:  | Drinks                               |
 
 
@@ -53,7 +53,7 @@ Please note that the schedule below may still change.
 </td>
 <td width="20%">
 <p style="text-align:center;">
-<img src="https://www.soe.ucsc.edu/people/ejw/photo/1" width="140">
+<img src="https://www.soe.ucsc.edu/people/ejw/photo/1" width="120">
 </p>
 </td>
 </tr>
