@@ -53,7 +53,7 @@ Please note that the schedule below may still change.
 </td>
 <td width="20%">
 <p style="text-align:center;">
-<img src="https://www.soe.ucsc.edu/people/ejw/photo/1" width="150">
+<img src="https://www.soe.ucsc.edu/people/ejw/photo/1" width="140">
 </p>
 </td>
 </tr>
