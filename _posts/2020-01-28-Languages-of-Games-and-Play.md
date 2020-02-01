@@ -81,7 +81,7 @@ Please note that the schedule below may still change.
 
 <table>
 <tr><td width="80%">
-<b>Speaker.</b> Tijs van der Storm is senior researcher in the Software Analysis and Transformation (SWAT) group at Centrum Wiskunde & Informatica (CWI), and professor in software engineering at the University of Groningen. His research focuses on improving programmer experience through new and better software languages and developing the tools and techniques to engineer them in a modular and interactive fashion. For more information, see <a href="www.cwi.nl/~storm">http://www.cwi.nl/~storm</a>.
+<b>Speaker.</b> Tijs van der Storm is senior researcher in the Software Analysis and Transformation (SWAT) group at Centrum Wiskunde & Informatica (CWI), and professor in software engineering at the University of Groningen. His research focuses on improving programmer experience through new and better software languages and developing the tools and techniques to engineer them in a modular and interactive fashion. For more information, see <a href="http://www.cwi.nl/~storm">http://www.cwi.nl/~storm</a>.
 </td>
 <td width="20%">
 <p style="text-align:center;">
