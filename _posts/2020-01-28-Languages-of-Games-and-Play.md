@@ -59,6 +59,38 @@ Please note that the schedule below may still change.
 </tr>
 </table>
 
+### Talk 2: Multi-Paradigm Modelling for Modern Computer Games
+
+**Abstract.** As the complexity of Modern Computer Games increases, the value of their Model-Based Design becomes apparent. By using most appropriate modelling formalisms, at appropriate levels of abstraction, by explicitly quantifying the notion of "playability", and by automatic exploration of the space of possible game designs (and in particular, of Non-Player Character behaviour), many alternatives can be explored virtually, and games can be synthesized. Some personal experiences with Model-Based Design of Modern Computer Games will be presented.
+
+<table>
+<tr><td width="80%">
+<b>Speaker.</b> Hans Vangheluwe is a professor in the department of Computer Science of the University of Antwerp in Belgium. His Modelling, Simulation and Design Lab (MSDL) is a core research lab of Flanders Make, the strategic research centre for the Flemish manufacturing industry. He works on both foundations and industrial applications of Multi-Paradigm Modelling (MPM). He investigates modular modelling language engineering to support MPM. He was one of the founding members of the Modelica design team and the chair of the Multi-Paradigm Modelling for Cyber-Physical Systems (MPM4CPS) EU COST Action.
+</td>
+<td width="20%">
+<p style="text-align:center;">
+<img src="https://www.uantwerpen.be/images/uantwerpen/personalpage09531/2d525d1776ae9d6a5545599fde4578dc.jpg" width="120">
+</p>
+</td>
+</tr>
+</table>
+
+
+### Talk 5: Breathing Life into Domain-Specific Languages
+**Abstract.** Live programming is a technique to shorten the feedback loop between editing a program and its execution. For domain-specific languages (DSLs) the gap between the program and how it is executed at run time can be even bigger than for general purpose languages such as Java. In this short talk we will highlight the main challenges for bridging this gap and showcase early research results in breathing life into DSLs. 
+
+<table>
+<tr><td width="80%">
+<b>Speaker.</b> Tijs van der Storm is senior researcher in the Software Analysis and Transformation (SWAT) group at Centrum Wiskunde & Informatica (CWI), and professor in software engineering at the University of Groningen. His research focuses on improving programmer experience through new and better software languages and developing the tools and techniques to engineer them in a modular and interactive fashion. For more information, see http:// www.cwi.nl/~storm.
+</td>
+<td width="20%">
+<p style="text-align:center;">
+<img src="https://www.cwi.nl/intranet/faces/1812.jpg" width="120">
+</p>
+</td>
+</tr>
+</table>
+
 
 The other abstracts will be added here.
 
