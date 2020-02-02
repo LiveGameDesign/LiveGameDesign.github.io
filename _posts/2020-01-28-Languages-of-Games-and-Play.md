@@ -76,7 +76,7 @@ Please note that the schedule below may still change.
 </table>
 
 ### Talk 3: <Title to be announced>
-
+**Abstract.** to be added here
 
 <table>
 <tr><td width="80%">
@@ -92,6 +92,7 @@ Please note that the schedule below may still change.
 </table>
 
 ### Talk 4: 'Narrative Game Worlds'
+**Abstract.** to be added here
 
 <table>
 <tr><td width="80%">
