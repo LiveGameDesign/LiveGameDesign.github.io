@@ -75,6 +75,42 @@ Please note that the schedule below may still change.
 </tr>
 </table>
 
+### Talk 3
+
+
+<table>
+<tr><td width="80%">
+<b>Speaker.</b> Joris Dormans
+
+</td>
+<td width="20%">
+<p style="text-align:center;">
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQG5fmjl1xi0QA/profile-displayphoto-shrink_200_200/0?e=1586390400&v=beta&t=7Vfn3h0eMvglMH_qNMwiggZkTkx6wZPbB0qBGJp90Qs" width="120">
+</p>
+</td>
+</tr>
+</table>
+
+https://media-exp1.licdn.com/dms/image/C4E03AQG5fmjl1xi0QA/profile-displayphoto-shrink_200_200/0?e=1586390400&v=beta&t=7Vfn3h0eMvglMH_qNMwiggZkTkx6wZPbB0qBGJp90Qs
+
+### Talk 4: 'Narrative Game Worlds'
+
+<table>
+<tr><td width="80%">
+<b>Speaker.</b> Rafael Bidarra
+
+</td>
+<td width="20%">
+<p style="text-align:center;">
+<img src="https://graphics.tudelft.nl/wp-content/uploads/2013/05/rafab2.jpg" width="120">
+</p>
+</td>
+</tr>
+</table>
+
+
+
+
 
 ### Talk 5: Breathing Life into Domain-Specific Languages
 **Abstract.** Live programming is a technique to shorten the feedback loop between editing a program and its execution. For domain-specific languages (DSLs) the gap between the program and how it is executed at run time can be even bigger than for general purpose languages such as Java. In this short talk we will highlight the main challenges for bridging this gap and showcase early research results in breathing life into DSLs. 
