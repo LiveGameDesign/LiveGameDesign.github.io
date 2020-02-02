@@ -84,9 +84,6 @@ Please note that the schedule below may still change.
 
 </td>
 <td width="20%">
-<p style="text-align:center;">
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQG5fmjl1xi0QA/profile-displayphoto-shrink_200_200/0?e=1586390400&v=beta&t=7Vfn3h0eMvglMH_qNMwiggZkTkx6wZPbB0qBGJp90Qs" width="120">
-</p>
 </td>
 </tr>
 </table>
@@ -100,9 +97,6 @@ Please note that the schedule below may still change.
 
 </td>
 <td width="20%">
-<p style="text-align:center;">
-<img src="https://graphics.tudelft.nl/wp-content/uploads/2013/05/rafab2.jpg" width="110">
-</p>
 </td>
 </tr>
 </table>
