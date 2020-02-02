@@ -35,7 +35,7 @@ Please note that the schedule below may still change.
 | 13:00 - 13:20   | Procedural Generation Using Linear Constraints, Prof. Dr. Jim Whitehead     |
 | 13:20 - 13:40   | Multi-Paradigm Modelling for Modern Computer Games, Prof. Dr. Hans Vangheluwe   |
 | 13:40 - 13:55   | Coffee Break                         |
-| 13:55 - 14:10   | (title to be announced), Dr. Joris Dormans           |
+| 13:55 - 14:10   | Radical Content Generation, Dr. Joris Dormans           |
 | 14:10 - 14:25   | Narrative Game Worlds, Dr. ir. Rafael Bidarra       |
 | 14:25 - 14:40   | Breathing Life into Domain-Specific Languages, Prof. Dr. Tijs van der Storm |
 | 14:40 - :wink:  | Drinks                               |
@@ -75,8 +75,8 @@ Please note that the schedule below may still change.
 </tr>
 </table>
 
-### Talk 3: 'title to be announced'
-**Abstract.** to be added here
+### Talk 3: Radical Content Generation
+**Abstract.** Content generation in games offers many opportunities to push game design into new directions. The technology is available but the industry seems reluctant to apply it. What does it take to start making bigger strides?
 
 <table>
 <tr><td width="80%">
