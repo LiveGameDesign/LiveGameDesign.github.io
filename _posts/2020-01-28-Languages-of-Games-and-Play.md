@@ -100,7 +100,7 @@ Please note that the schedule below may still change.
 </td>
 <td width="20%">
 <p style="text-align:center;">
-<img src="https://graphics.tudelft.nl/wp-content/uploads/2013/05/rafab2.jpg" width="120">
+<img src="https://graphics.tudelft.nl/wp-content/uploads/2013/05/rafab2.jpg" width="110">
 </p>
 </td>
 </tr>
@@ -119,7 +119,7 @@ Please note that the schedule below may still change.
 </td>
 <td width="20%">
 <p style="text-align:center;">
-<img src="https://www.cwi.nl/intranet/faces/1812.jpg" width="120">
+<img src="https://www.cwi.nl/intranet/faces/1812.jpg" width="110">
 </p>
 </td>
 </tr>
