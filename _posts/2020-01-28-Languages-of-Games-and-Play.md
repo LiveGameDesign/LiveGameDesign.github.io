@@ -91,8 +91,6 @@ Please note that the schedule below may still change.
 </tr>
 </table>
 
-https://media-exp1.licdn.com/dms/image/C4E03AQG5fmjl1xi0QA/profile-displayphoto-shrink_200_200/0?e=1586390400&v=beta&t=7Vfn3h0eMvglMH_qNMwiggZkTkx6wZPbB0qBGJp90Qs
-
 ### Talk 4: 'Narrative Game Worlds'
 
 <table>
