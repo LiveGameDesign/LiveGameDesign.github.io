@@ -75,7 +75,7 @@ Please note that the schedule below may still change.
 </tr>
 </table>
 
-### Talk 3
+### Talk 3: <Title to be announced>
 
 
 <table>
