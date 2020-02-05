@@ -13,23 +13,6 @@ permalink: /partners/
 
 ---
 
-
----
-layout: page
-title: Partners
-permalink: /partners/
----
----
-
-| <img src="{{ site.url }}/assets/HvA.png" width="160">           | <img src="{{ site.url }}/assets/CWI.png" width="100">          | <img src="{{ site.url }}/assets/TU_Delft.png" width="120">       |  <img src="{{ site.url }}/assets/DGA.png" width="140">           |
-|:---------------------------------------------------------------:|:--------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
- |  <img src="{{ site.url }}/assets/DGG.png" width="60">       | <img src="{{ site.url }}/assets/IC3D_Media.png" width="120">   | <img src="{{ site.url }}/assets/Ludomotion.jpg" width="80">    | <img src="{{ site.url }}/assets/Firebrush.gif" width="150">    |
- | <img src="{{ site.url }}/assets/Little_Chicken.png" width="80">  | <img src="{{ site.url }}/assets/VirtualPlay.png" width="80">        | <img src="{{ site.url }}/assets/Ranj.png" width="100">          | <img src="{{ site.url }}/assets/WildCard.png" width="200">     |
- | <img src="{{ site.url }}/assets/DoubleDutch.png" width="150">    | <img src="{{ site.url }}/assets/FourceLabs.png" width="80">      | <img src="{{ site.url }}/assets/Paladin.png" width="120">      | <img src="{{ site.url }}/assets/Ijsfontein.png" width="100">   |
- | <img src="{{ site.url }}/assets/Codeglue.png" width="120">   |  <img src="{{ site.url }}/assets/Anadrome.png" width="120">      | <img src="{{ site.url }}/assets/UC_Santa_Cruz.jpg" width="120"> |                                                                   
-
----
-
 ## Consortium
 * [Amsterdam University of Applied Sciences]
 * [Centrum Wiskunde & Informatica]
