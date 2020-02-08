@@ -80,7 +80,7 @@ Please note that the schedule below may still change.
 
 <table>
 <tr><td width="80%">
-<b>Speaker.</b> 
+<b>Speaker.</b> Joris Dormans is Head of Ludomotion, Co-Founder and Advisor at Machinations.io and Assistant Professior at Leiden University.
 </td>
 
 <td width="20%">
