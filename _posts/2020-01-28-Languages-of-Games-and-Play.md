@@ -76,11 +76,11 @@ Please note that the schedule below may still change.
 </table>
 
 ### Talk 3: Radical Content Generation
-**Abstract.** Content generation in games offers many opportunities to push game design into new directions. The technology is available but the industry seems reluctant to apply it. What does it take to start making bigger strides?
+**Abstract.** Content generation in games offers many opportunities to push game design into new directions. The technology is available but the industry seems reluctant to apply it. What does it take to start making bigger strides? In this talk Joris discusses lessons learned from developing Unexplored and its sequel, mostly how state-of-the-art generative techniques pushes the envelope for game design.
 
 <table>
 <tr><td width="80%">
-<b>Speaker.</b> Joris Dormans is Head of Ludomotion, Co-Founder and Advisor at Machinations.io and Assistant Professor at Leiden University.
+<b>Speaker.</b> Joris Dormans is head of Ludomotion where he applies his latest research in Procedural Content Generation to the design and development of Unexplored 2: The Wayfarers Legacy. He is also a founder and adviser for <a href="http://machinations.io">Machination.io</a>, and assistant professor at Leiden University where he teaches courses in Game Studies, Critical Game Design, and Generative Narratology. His current design and research interests lie within the intersection of content generation, emergent gameplay, and player agency.
 </td>
 
 <td width="20%">
