@@ -80,7 +80,7 @@ Please note that the schedule below may still change.
 
 <table>
 <tr><td width="80%">
-<b>Speaker.</b> Joris Dormans holds a PhD in Game Design from the University of Amsterdam and a MA degree in Cultural Studies from the Free University of Amsterdam. Joris works as a lecturer and researcher in the field of game developer. Occasionally works as a independent game designer and freelance consultant.
+<b>Speaker.</b> 
 </td>
 
 <td width="20%">
