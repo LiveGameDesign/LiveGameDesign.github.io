@@ -36,7 +36,7 @@ Please note that the schedule below may still change.
 | 13:20 - 13:40   | Multi-Paradigm Modelling for Modern Computer Games, Prof. Dr. Hans Vangheluwe   |
 | 13:40 - 13:55   | Coffee Break                         |
 | 13:55 - 14:10   | Radical Content Generation, Dr. Joris Dormans           |
-| 14:10 - 14:25   | Narrative Game Worlds, Dr. ir. Rafael Bidarra       |
+| 14:10 - 14:25   | It's a Wonderful Narrative World, Dr. ir. Rafael Bidarra       |
 | 14:25 - 14:40   | Breathing Life into Domain-Specific Languages, Prof. Dr. Tijs van der Storm |
 | 14:40 - :wink:  | Drinks                               |
 
@@ -88,22 +88,23 @@ Please note that the schedule below may still change.
 </tr>
 </table>
 
-### Talk 4: 'Narrative Game Worlds'
-**Abstract.** to be added here
+### Talk 4: It's a Wonderful Narrative World
+**Abstract.**
+A Narrative World comprises a number of interrelated locations that, all together, fully support enacting a given story. Each of these locations features not only all objects required there by the narrative, but also a variety of other objects that adequately describe or decorate the location. 
+Procedurally generating narrative worlds poses many challenges. We identify some of these challenges and describe in more detail one of them: the impact of a story's temporal dimension, which introduces dynamic fluctuations of objects between locations over time.
 
 <table>
 <tr><td width="80%">
-<b>Speaker.</b> Rafael Bidarra
-
+<b>Speaker.</b> Rafael Bidarra is associate professor Game Technology at the Faculty of Electrical Engineering, Mathematics and Computer Science of Delft University of Technology, The Netherlands.
+He leads the game technology research lab at the Computer Graphics and Visualization Group. His current research interests include: procedural and semantic modeling techniques for the specification and generation of both virtual worlds and gameplay; serious gaming; game adaptivity and game data analytics.
 </td>
 <td width="20%">
+<p style="text-align:center;">
+<img src="https://d1rkab7tlqy5f1.cloudfront.net/_processed_/9/2/csm_k9h71_dc9d83fb2c.jpg" width="110">
+</p>
 </td>
 </tr>
 </table>
-
-
-
-
 
 ### Talk 5: Breathing Life into Domain-Specific Languages
 **Abstract.** Live programming is a technique to shorten the feedback loop between editing a program and its execution. For domain-specific languages (DSLs) the gap between the program and how it is executed at run time can be even bigger than for general purpose languages such as Java. In this short talk we will highlight the main challenges for bridging this gap and showcase early research results in breathing life into DSLs. 
